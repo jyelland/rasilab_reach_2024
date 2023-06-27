@@ -32,8 +32,10 @@
   - ```git config --global user.name "Katharine Chen"```
   - ```git config --global user.email kychen37@uw.edu```
   - ```git config --global credential.helper manager-core```
-- Usual git workflow:
-  - ```git add filename```
+- The default behavior of git is to rebase, but if you don't set it explicitly it will give you an error each time you try to pull, so run:
+  - ```git config --global pull.rebase true```
+- Now you can run the usual git workflow:
+  - ```git add ``` filename of the file you editted
   - ```git commit -m "descriptive message about what was editted```
   - ```git push origin main```
-- You should also do ```git pull origin main``` to get any changes to the remote repo that other users have pushed
+- You should also do ```git pull origin main``` to get any changes to the remote repo that other users may have pushed
