@@ -8,5 +8,5 @@ https://innovativegenomics.org/education/digital-resources/what-is-crispr/
 
 ## CRISPR screening
 - Taking the foundations of CRISPR-Cas9 technology and applying it as a high-throughput screen to obtain hundreds of thousands of measurements at once
-- A very typicaly CRISPR screen is described here: https://www.thermofisher.com/us/en/home/life-science/genome-editing/crispr-libraries.html (the **"Pooled CRISPR library screening workflow"** is the most relevant info)
+- A very typical CRISPR screen is described here: https://www.thermofisher.com/us/en/home/life-science/genome-editing/crispr-libraries.html (the **"Pooled CRISPR library screening workflow"** is the most relevant info)
 - Our lab is designing custom CRISPR screens whose workflows differ slightly from the one described in the link
