@@ -1,5 +1,5 @@
 - Katharine Chen (she/her)
-- I'm in my 5th year of my PhD program
+- I'm in my 5th year of my PhD program in the MCB program
 - I grew up in Maryland near Maryland
 - Favorite food is chicken nuggets
 - No dietary restrictions
