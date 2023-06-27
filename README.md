@@ -19,15 +19,13 @@
 ### Github
 
 - Make an account on github and verify your email address
-- Install git to you laptops by following [this](https://www.atlassian.com/git/tutorials/install-git) site
+- Install git to your laptops by following [this](https://www.atlassian.com/git/tutorials/install-git) site
 - Clone our group's remote repository to your local computer by opening the terminal and executing the following: ```git clone https://github.com/kychen37/rasilab_spelman_2023.git```
-  - Since this repo was made in my account (kychen37), I needed to added gquarter and christinebynum users to the repo on github under [Settings](https://github.com/kychen37/rasilab_spelman_2023/settings)
+  - Since this repo was made in my account (kychen37), I needed to added gquarter and christinebynum users to the repo on github under [Settings](https://github.com/kychen37/rasilab_spelman_2023/settings) before they had permission to push/pull
 - Each user needs to then generate a personal access token:
-  - Go to you user settings
-  - Go to Developer settings
-  - Personal access tokens -> Tokens (classic) -> Generate new token (classic)
+  - Go to your user settings -> Developer settings -> Personal access tokens -> Tokens (classic) -> Generate new token (classic)
   - Under Note, name the token something descriptive and check 'repo'
-  - Press Generate token, copy the entire token to a different location
+  - Press Generate token, copy the entire token to a different location like a notepad
 - Follow the top comment on https://stackoverflow.com/questions/46645843/where-to-store-my-git-personal-access-token for saving the personal access token to the git credential helper so you don't have to keep copy/pasting it each time you push
   - ```git config --global user.name "Katharine Chen"```
   - ```git config --global user.email kychen37@uw.edu```
@@ -39,3 +37,15 @@
   - ```git commit -m "descriptive message about what was editted```
   - ```git push origin main```
 - You should also do ```git pull origin main``` to get any changes to the remote repo that other users may have pushed
+
+### R programming
+
+#### Installing R
+- https://rstudio-education.github.io/hopr/starting.html
+
+### VSCode
+- A very useful text editing and coding application
+- Various extensions make coding/writing in VSCode much easier:
+  - Go to Extensions on the side panel and install the extension called Jupyter
+
+#### Setting up Jupyter kernels in VSCode
