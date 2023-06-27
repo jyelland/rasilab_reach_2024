@@ -1,4 +1,6 @@
-Katharine Chen
-I grew up around DC
-Favorite food is chicken nuggets
-Not dietary restrictions
+- Katharine Chen (she/her)
+- I'm in my 5th year of my PhD program
+- I grew up in Maryland near Maryland
+- Favorite food is chicken nuggets
+- No dietary restrictions
+- Emails: kychen37@uw.edu or kychen@fredhutch.org
