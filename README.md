@@ -28,6 +28,7 @@
   - Personal access tokens -> Tokens (classic) -> Generate new token (classic)
   - Under Note, name the token something descriptive and check 'repo'
   - Press Generate token, copy the entire token to a different location
+- Follow the top commen on https://stackoverflow.com/questions/46645843/where-to-store-my-git-personal-access-token for saving the personal access token to the git credential helper so you don't have to keep copy/pasting each time you push
 - Each user should now be able to use git/github
 - Usual git workflow:
   - ```git add filename```
