@@ -58,3 +58,33 @@ date: 2023-06-27
 - crRNA replaces mutated RNA and tracRNA combines with crRNA because of Cas9 
 - Zinc Finger Nucleases and Talens are more complicatd and takes more time than CRISPR
 - CRISPR can only edit DNA next to PAM (prodce baser adjacent motifs) sequences 
+
+# CRISPR Genetic Screens
+## What is CRISPR screening?
+- A single experiemtal approach to screen a population of muatnt cells to discover genes involved relating to a specfic phenotyope
+- In lamens terms, the screeing is used to find the genetic sequence that influences the phentoype in the entre genome that has many genetic sequences.
+    - "Targeted assesement of specfic gene set."
+- **CRISPER-ko screen (CRISPER Knockout)**
+    - Gene "knockout" by identifyin genomic regions
+    - **Traditionally targets protein-coding genes**
+        - Used to study enhancers (including rid of skin dieases)
+    - Targets (location of genes), Models (whats is used to find the sequence), Assay (how is being assested to be screened), Analysis(measuring and outcome)
+    - Changes in sgRNA - sign of CRISPR-ko screens
+    - Can identify novel role for genes contribution to phenotypes
+        - It is important to review screen hits using atl knockdown method like RNAi or complementary functional experiement
+- **sgRNA (SureGuide RNA)** - Nuclease System to allow system to genome edit
+    - Increase sgRNA per target improves the sensitivity of a CRISPR-ko screen
+    - Negative controls of sgRNA: are nontargeting, assess neutral variations in screen
+    - Positive controls of sgRNA: are targeting, find ssental genes like ribosomal/proteasomal subunits
+        - Should not be ignored by CRISPR-ko and should serve as a confidence booster for the screen 
+- Designing the screen to study bases off the set of genes (size, complexity, and cost)
+- Focusing on a certian sequence of elements by transcription factors, kineases, or RNA binding proteins causing it too be more direct and managable screening strategy
+- Choice of preferred delivery method of CRISPR should be evaluted for the type of cell b/c it can cause undesirable effects
+- **How is Cas9 introduced to cells?**
+    - Creation of variablity in Cas9 protien expression among cells
+    - Establish cell lines expressing Cas9 like ATCC
+- Most CRISPR screens combne with assays that exert selective stresst on cell fitness.
+    - Lower fitness decreass abundance
+- CRISPR screens on cell engernieering can trigger desirable phenotype
+- To measure changes in sgRNA abundance, it is amplified from genomic DNA isolation before and after screen
+- A postive screen hit for a gene will result in many independent sgRNA abundances
