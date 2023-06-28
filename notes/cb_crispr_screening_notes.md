@@ -23,26 +23,26 @@ date: 2023-06-26
 - Feel free to ask me any questions that arise at any point in this process!
 
 # notes
-- (**CRISPR 101 Ted Talk**)
+# **CRISPR 101 Ted Talk**
 -   a method scientists use to edit DNA, and genes within viruses, embryos, adult cells and living species
 -  crispr locus keeps a copy of previous viruses  
 -   introduction of double stranded DNA cuts,ang trigger cells to prepare rejuvination
 -   technology is being used on mice to disrupt genes in specific areas, such as color within mice
 -   can also be used in humans for enhancement or to create designer humans
 -   consider theraputic and non theraputic results, also consider ethical aproach to this technique in humans
-- (**What is RISPR-Cas9**)
+# **What is RISPR-Cas9**
 -   allows for genetic manipulation
 -   DNA mutation in enzyme Cas9, and RNA specifically gRNA that is pre-designed, and later binds to DNA sequence-
 -   RNA is designed to bind to a specific site within the DNA, then the cell will recognise that the DNA is damaged and attempt to repair. the also sometimes use DNA repair machinery to introduce changes more than one gene in the genome
 -   This is a potential treatment method for various medical conditions such as cancer, hepratits B and high cholesterol
-- (**Khan Academy video: CRISPR Cas-9**)
+# **Khan Academy video: CRISPR Cas-9**
 -   virus insert its DNA into other cells, and the cells read the genetic information as if it were thier, alowing the virus to continue to replicate and eventually take over the body
 -   cas genes are places in the middle of the DNA, and then hunt for complimentary DNA strands
 -   can be used to assist countries who suffer from mal nutrition, and can now cut DNA in areas that were previously inaccesible.
 -   CRISPR-cas-9 is the most acurate, can only be used with reognized PAM sequences.    
-- (**CRISPR-Cas9 Screening Libraries**)
+# **CRISPR-Cas9 Screening Libraries**
 -   use gRNA for maximm knockout efficency without comporomising specificity, therefor it is high yeild
-- (**NIH: CRISPR Genetic Screens**)
+# **NIH: CRISPR Genetic Screens**
 -   bacterial genome editing system used to perturb-alter the function of genes in cells and tissue 
 -   CRISPR system involves using the Cas9 enzyme guided by a single guide RNA to target specific genes
 - Cas9 introduces double stranded DNA breaks at target site, allowing for small insertionsa nd deletions, resulting in the loss of functional, or enhancement of a mutation. This can allow high yeild results for specific phenotypical intrests. 
@@ -53,4 +53,4 @@ date: 2023-06-26
 -  CRISPR screens involve applying selective stress to cells, often using drugs or ultraviolet radiation, to decrease the abundance of cells with lower fitness. Not limited to cell fitness assays alone, as researchers have combined CRISPR with fluorescence-activated cell sorting (FACS) to activate desired phenotypes, such as cytokine expression. Novel assays can be developed, like using an antibiotic resistance assay for active Hedgehog signaling, allowing for targeted selection in CRISPR screens. 
 -   To measure changes in sgRNA abundance, sgRNA sequences are amplified from genomic DNA isolated before and after the screen. This is used to dictate how much a gene will be enriched.
 -   CRISPR screens offer a powerful alternative approach to make new discoveries in investigative dermatology, enabling the identification of therapeutic targets in keratinocyte cancers, melanomas, genetic skin diseases, and the exploration of noncoding genomic regions contributing to skin disease.
-limitations: labor and resource intensice, requires independent and functional techniques, and likely new tech.
+limitations: labor and resource intensice, requires independent and functional techniques, and likely new tech.cb
