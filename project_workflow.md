@@ -29,3 +29,11 @@
       - Note: Where the notebook says **Exercise**, complete the code chunk with your own code (it may contain some code already to get you started)  
 - Optional tutorials:
   1. If interested, you can delve deeper into python functions with: python_functions_intro.ipynb -> procedural_programming_in_python.ipynb
+
+### Saving and version controlling your work
+- Save your jupyter notebooks as "yourinitials_nameofnotebook.ipynb" (e.g., "kc_Jupyter_and_Python_Basics.ipynb") and then push them to github
+  - If you both work off the same notebook without changing the names, and both try to push that notebook to our github repo, you will probably get something called merge conflicts (i.e. two contributors changing the same lines of the same file), which are resolvable but this way we avoid them entirely
+- In general and going forward, if you want to make your own files (either to take your own notes or to play around with python in jupyter notebooks), just make sure to follow our current directory structure, for example:
+  - Any note-taking files should be written in markdown and saved as "yourinitials_descriptive_name_of_your_choice.md" into the ```notes``` folder
+  - Any jupyter notebooks should be saved as "yourinitials_descriptive_name_of_your_choice.ipynb" into the ```code``` folder
+  - Version control these files by pushing them to github periodically and practice writing descriptiive commit messages (a good commit message succinctly descibes what you changed to the file compared to your last commit)
