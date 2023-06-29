@@ -8,7 +8,7 @@
 - Read about CRISPR technologies
 
 ## 06/29/2023
-- Pull remote repo using command line to update your local computers (```git pull origin main```)
+- Pull remote repo using command line to update your local computers (```git pull origin main```). It's good practice to start the day with a ```git pull``` just to make sure everything is up to date.
 
 ### Setting up our python coding environment
 - Follow the instructions in the [installing miniconda](https://github.com/kychen37/rasilab_spelman_2023/blob/main/README.md#installing-miniconda) section of our repo's README file
