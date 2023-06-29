@@ -47,7 +47,8 @@
 #### Installing miniconda: 
 - [What is miniconda?](https://docs.conda.io/en/latest/miniconda.html)
 - Mac: https://docs.conda.io/projects/conda/en/latest/user-guide/install/macos.html
-  - Download "Miniconda3 macOS Intel x86 64-bit bash" installation by clicking the link
+  - Follow the link "Miniconda installer for macOS."
+  - Click on the link "Miniconda3 macOS Intel x86 64-bit bash", which will download the installation to your Downloads folder
   - Open terminal and navigate to your Downloads folder
   - Run: ```sh Miniconda3-latest-MacOSX-x86_64.sh``` and follow prompts in terminal (say 'yes' to 'conda init' question)
   - After installation is done, close and reopen terminal
@@ -55,15 +56,18 @@
 - Windows: https://docs.conda.io/projects/conda/en/latest/user-guide/install/windows.html
   - Open the executable and follow instructions
 - After finished installing miniconda, install ```pandas``` by typing: ```conda install pandas``` on the command line
+- If you need any more packages, use: ```conda install ``` packagename
+  - e.g. ```conda install numpy```, ```conda install matplotlib```
 
 ### VSCode
 - A very useful text editing and coding application
-- Various extensions make coding/writing in VSCode much easier:
-  - Go to Extensions on the side panel and install the extension called Jupyter
+- Various extensions make coding/writing in VSCode much easier
 
 #### Setting up Jupyter kernels in VSCode
-- Go to Extensions and download the Jupyter extension
-- For python notebooks: press CMD+SHIFT+P -> Create Jupyter notebook
+- In VSCode, find the Extensions panel
+- Search for the extension called Jupyter and download it
+- Open a python interactive notebook (called a Jupyter notebook)
+  - For Mac: press CMD+SHIFT+P to open the drop-down menu -> click Create Jupyter notebook
 - In top right corner: select "Select Kernel" -> "Python environments" -> choose the "base (miniconda3/bin/python)" 
 - Start coding!
   - The first time you run a code chunk, VSCode may ask you to download some needed additional extensions, download those
