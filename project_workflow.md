@@ -8,9 +8,9 @@
 - Read about CRISPR technologies
 
 ## 06/29/2023
+- Pull remote repo using command line to update your local computers (```git pull origin main```)
 
 ### Setting up our python coding environment
-- Pull remote repo using command line to update your local computers (```git pull origin main```)
 - Follow the instructions in the [installing miniconda](https://github.com/kychen37/rasilab_spelman_2023/blob/main/README.md#installing-miniconda) section of our repo's README file
 - In VSCode, find the Extensions panel
 - Search for the extension called Jupyter and download it
