@@ -49,15 +49,15 @@
 - Mac: https://docs.conda.io/projects/conda/en/latest/user-guide/install/macos.html
   - Follow the link "Miniconda installer for macOS."
   - Click on the link "Miniconda3 macOS Intel x86 64-bit bash", which will download the installation to your Downloads folder
-  - Open terminal and navigate to your Downloads folder
+  - Open terminal and navigate to your Downloads folder (hint ```cd```)
   - Run: ```sh Miniconda3-latest-MacOSX-x86_64.sh``` and follow prompts in terminal (say 'yes' to 'conda init' question)
   - After installation is done, close and reopen terminal
-  - Run: ```conda list```, which should show a list of packages if the installation was successful
+  - Run: ```conda list```, which should show a list of packages if the installation was successful (will probably say something like ```conda not found``` if it was unsuccessful)
 - Windows: https://docs.conda.io/projects/conda/en/latest/user-guide/install/windows.html
   - Open the executable and follow instructions
-- After finished installing miniconda, install ```pandas``` by typing: ```conda install pandas``` on the command line
-- If you need any more packages, use: ```conda install ``` packagename
-  - e.g. ```conda install numpy```, ```conda install matplotlib```
+- After you've finished installing miniconda, install ```pandas``` by typing: ```conda install pandas``` on the command line
+- If you need any more packages down the road, you would run: ```conda install packagename``` on the command line
+  - e.g. numpy and matplotlib are common python packages, to install them you would run: ```conda install numpy```, ```conda install matplotlib```
 
 ### VSCode
 - A very useful text editing and coding application
