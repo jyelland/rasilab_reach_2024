@@ -11,7 +11,6 @@
 
 - Pull remote repo using command line to update your local computers
 - Follow the instructions in the [installing miniconda](https://github.com/kychen37/rasilab_spelman_2023/blob/main/README.md#installing-miniconda) section of our repo's README file
-- Follow the instructions in the [Setting up Jupyter kernels in VSCode](https://github.com/kychen37/rasilab_spelman_2023/blob/main/README.md#setting-up-jupyter-kernels-in-vscode) section of our repo's README file
 - In VSCode, find the Extensions panel
 - Search for the extension called Jupyter and download it
 - Open our rasilab_spelman_2023 folder in VSCode, and work through the python tutorials located in the ```code``` directory
