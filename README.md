@@ -43,9 +43,27 @@
 #### Installing R
 - https://rstudio-education.github.io/hopr/starting.html
 
+### Programming in python
+#### Installing miniconda: 
+- [What is miniconda?](https://docs.conda.io/en/latest/miniconda.html)
+- Mac: https://docs.conda.io/projects/conda/en/latest/user-guide/install/macos.html
+  - Download "Miniconda3 macOS Intel x86 64-bit bash" installation by clicking the link
+  - Open terminal and navigate to your Downloads folder
+  - Run: ```sh Miniconda3-latest-MacOSX-x86_64.sh``` and follow prompts in terminal (say 'yes' to 'conda init' question)
+  - After installation is done, close and reopen terminal
+  - Run: ```conda list```, which should show a list of packages if the installation was successful
+- Windows: https://docs.conda.io/projects/conda/en/latest/user-guide/install/windows.html
+  - Open the executable and follow instructions
+- After finished installing miniconda, install ```pandas``` by typing: ```conda install pandas``` on the command line
+
 ### VSCode
 - A very useful text editing and coding application
 - Various extensions make coding/writing in VSCode much easier:
   - Go to Extensions on the side panel and install the extension called Jupyter
 
 #### Setting up Jupyter kernels in VSCode
+- Go to Extensions and download the Jupyter extension
+- For python notebooks: press CMD+SHIFT+P -> Create Jupyter notebook
+- In top right corner: select "Select Kernel" -> "Python environments" -> choose the "base (miniconda3/bin/python)" 
+- Start coding!
+  - The first time you run a code chunk, VSCode may ask you to download some needed additional extensions, download those
