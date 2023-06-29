@@ -15,10 +15,12 @@
 - In VSCode, find the Extensions panel
 - Search for the extension called Jupyter and download it
 - Open our rasilab_spelman_2023 folder in VSCode, and work through the python tutorials located in the ```code``` directory
+  - If VSCode asks you to download other extensions, go ahead and install them
 
 ### Python tutorials
 - Do the tutorials in order:
   1. Jupyter_and_Python_Basics.ipynb
+    - In the upper right corner of each notebook, click on "Select Kernel" -> "Python Environments" -> select "(base) miniconda3/bin/python" 
   2. python_tutorial.ipynb
       - Note: Where the notebook says **Exercise**, complete the code chunk with your own code (it may contain some code already to get you started)  
 - Optional tutorials:
