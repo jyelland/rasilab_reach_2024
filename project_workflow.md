@@ -1,8 +1,11 @@
 # Workflow and documentation
 
 ## 06/26/2023 - 06/28/2023
-
 - Learn version control via git/github
+  -	Create github and slack accounts so you can get added to the Subramaniam lab’s Slack group and Github groups
+  -	Learn how the command line/terminal works
+  -	Install github on our computers using the command line
+  -	Go over the basics of version control
 - Learn Markdown
 - Get familiarized with VSCode, which we will use to take notes in Markdown and eventually to code Jupyter notebooks
 - Read about CRISPR technologies
