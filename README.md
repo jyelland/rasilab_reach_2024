@@ -2,6 +2,10 @@
 - Katharine Chen
 - Grace Quarterman
 - Christine Bynum
+- Rasi Subramaniam's lab at Fred Hutch Cancer Center
+
+# Project Workflow
+- [Main workflow details](https://github.com/kychen37/rasilab_spelman_2023/blob/main/project_workflow.md)
 
 ## Useful resources
 
