@@ -1,0 +1,35 @@
+# **CiBER-seq dissects genetic networks by quantitative CRISPRi profiling of expression phenotypes**
+- CiBER-seq is a useful tool for understanding how cells make decisions about gene expression and can help uncover the networks of genes involved in protien-making machinery
+    - **technique that helps scientist understand how genes work together**
+- barcode system that help measure the effects of each gene change
+- different genes had different effects on the cells
+    - discovered how certain genes control the production of proteins and how other genes are involved in cell division
+    -  learned how cells respond to stress by looking at the activity of certain genes
+- "sheds a light" on how genes work and intreact with each other
+- scientists developed a method called CiBER-seq that combines CRISPR interference (CRISPRi) with barcoded expression reporter sequencing to measure how cells respond when certain genes are turned off
+    - **measures gene expression**
+    - deep sequencing - reads the short DNA codes attached to the reporter genes
+- control gene was used because there were other factors that could affect the RNA levels leading to a confusing result, so the expression of the control was constant and unaffected by the changes
+- used a comprehensive library of RNA guides with unique DNA codes and linked them to the corresponding guides through sequencing allowing measurement of effects of the multiple RNA guides on the reporter genes
+- Scientist used CiBER-seq to see how genes are affected by different changes in their genetic code
+    - more focus on 4 specific genes (MET6, CWP1, HIS4, PHO5)
+        - understang regulation and function
+    - overall study helped understand how different genetic changes can affect genes and how they intreact with each other
+    - **control gene expression**
+- CiBER-seq to study two different gene promoters called P(HIS4) and P(PGK1) and how they were effected by certain changes in genes
+- genes responded to changes in the cell's energy production
+- technique uses barcoded expression reporters with unique DNA codes to measure gene activity
+- each DNA code is linked to a specific guide RNA (gRNA) that targets a gene for modification
+- By comparing different gRNAs and their associated barcoded reporters, scientists can identify which genes are responsible for specific changes in gene expression
+- technique allows for a comprehensive and quantitative analysis of gene networks
+- provides insights into how genes are regulated and how they work together to control cellular processes
+- CiBER-seq can study different types of gene regulation, including transcriptional, translational, and posttranslational processes
+-  technique helps uncover the connections between genes and their roles in biological functions
+- discovered that changes in gene activity were specific to each promoter, reflecting their unique roles
+- CiBER-seq can identify genes that activate or inhibit specific promoters
+- technique revealed the importance of factors like protein ubiquitylation and cytokinesis in gene regulation
+- showed that genes involved in nucleosome remodeling and RNA polymerase II initiation play a role in gene expression control
+- CiBER-seq also highlighted the activation of gene promoters in response to amino acid starvation and tRNA accumulation
+- study demonstrated the power of CiBER-seq in unraveling complex genetic networks and understanding cellular decision-making processes
+- technique has broad applications in studying various biological processes and can be used to map gene networks in other organisms
+- CiBER-seq offers a valuable tool for future research and advances our understanding of gene regulation and cellular biology
