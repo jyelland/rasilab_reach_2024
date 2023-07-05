@@ -54,3 +54,9 @@ date: 2023-06-26
 -   To measure changes in sgRNA abundance, sgRNA sequences are amplified from genomic DNA isolated before and after the screen. This is used to dictate how much a gene will be enriched.
 -   CRISPR screens offer a powerful alternative approach to make new discoveries in investigative dermatology, enabling the identification of therapeutic targets in keratinocyte cancers, melanomas, genetic skin diseases, and the exploration of noncoding genomic regions contributing to skin disease.
 limitations: labor and resource intensice, requires independent and functional techniques, and likely new tech.cb
+# **CiBER-seq dissects genetic networks by quantitative CRISPRi profiling of expression phenotypes**
+-   new method for dissecting genetic networks by using CRISPRi profiling of expression phenotypes
+-    allows for precise control of gene expression by using deactivated Cas9 (dCas9) proteins and precise measurement of gene expression of specific phenotypes
+-     can be used to identify key genes and pathways involved in specific biological processes, diseases, and harmful mutations
+-    comparing the expression phenotypes of different genetic variants, CiBER-seq allows researchers to infer the functional relationships between genes.
+-    potential to greatly advance our understanding of complex genetic networks and provide insights into disease mechanisms
