@@ -75,3 +75,7 @@
 - In top right corner: select "Select Kernel" -> "Python environments" -> choose the "base (miniconda3/bin/python)" 
 - Start coding!
   - The first time you run a code chunk, VSCode may ask you to download some needed additional extensions, download those
+
+# Link to Notes/ Checklist
+- https://docs.google.com/document/d/1oH2o3IqIo8S2cpuaRkC1sHXC3Qf9WcVbSqiicUIzfk8/edit
+- https://docs.google.com/document/d/1pm8s1GsDygkZAIZ5U-h7Nw7eMhKVGkSIK1jx5_jSpuk/edit
