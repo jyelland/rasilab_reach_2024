@@ -1,0 +1,128 @@
+﻿GO term,Description,P-value,FDR q-value,"Enrichment (N, B, n, b)",Genes
+GO:0000184,"nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",2.85E-28,2.09E-24,"4.48 (2150,115,263,63)",[+] Show genes
+GO:0019083,viral transcription,2.10E-27,7.72E-24,"5.02 (2150,88,263,54)",[+] Show genes
+GO:0006613,cotranslational protein targeting to membrane,2.65E-27,6.50E-24,"4.63 (2150,90,294,57)",[+] Show genes
+GO:0006413,translational initiation,2.99E-27,5.50E-24,"4.12 (2150,133,263,67)",[+] Show genes
+GO:0006614,SRP-dependent cotranslational protein targeting to membrane,5.96E-27,8.76E-24,"4.65 (2150,88,294,56)",[+] Show genes
+GO:0070972,protein localization to endoplasmic reticulum,6.37E-27,7.80E-24,"4.58 (2150,91,294,57)",[+] Show genes
+GO:0072599,establishment of protein localization to endoplasmic reticulum,6.37E-27,6.69E-24,"4.58 (2150,91,294,57)",[+] Show genes
+GO:0045047,protein targeting to ER,6.37E-27,5.85E-24,"4.58 (2150,91,294,57)",[+] Show genes
+GO:0006612,protein targeting to membrane,1.50E-26,1.23E-23,"4.53 (2150,92,294,57)",[+] Show genes
+GO:0006605,protein targeting,3.26E-25,2.40E-22,"4.23 (2150,102,294,59)",[+] Show genes
+GO:0090150,establishment of protein localization to membrane,7.72E-25,5.16E-22,"4.24 (2150,100,294,58)",[+] Show genes
+GO:0072657,protein localization to membrane,7.58E-22,4.64E-19,"3.86 (2150,110,294,58)",[+] Show genes
+GO:0072594,establishment of protein localization to organelle,2.24E-21,1.27E-18,"3.52 (2150,133,294,64)",[+] Show genes
+GO:0000956,nuclear-transcribed mRNA catabolic process,5.08E-20,2.67E-17,"3.22 (2150,175,263,69)",[+] Show genes
+GO:0006412,translation,6.15E-19,3.02E-16,"3.02 (2150,172,294,71)",[+] Show genes
+GO:0043604,amide biosynthetic process,8.29E-19,3.81E-16,"2.95 (2150,181,294,73)",[+] Show genes
+GO:0006518,peptide metabolic process,1.24E-18,5.36E-16,"2.93 (2150,182,294,73)",[+] Show genes
+GO:0043043,peptide biosynthetic process,1.41E-18,5.76E-16,"2.98 (2150,174,294,71)",[+] Show genes
+GO:0043603,cellular amide metabolic process,1.54E-18,5.95E-16,"2.87 (2150,191,294,75)",[+] Show genes
+GO:0006402,mRNA catabolic process,3.95E-18,1.45E-15,"3.00 (2150,191,263,70)",[+] Show genes
+GO:0033365,protein localization to organelle,5.35E-18,1.87E-15,"2.99 (2150,169,294,69)",[+] Show genes
+GO:1901566,organonitrogen compound biosynthetic process,1.17E-16,3.90E-14,"2.69 (2150,217,280,76)",[+] Show genes
+GO:0009057,macromolecule catabolic process,1.87E-16,5.99E-14,"2.32 (2150,279,315,95)",[+] Show genes
+GO:0044265,cellular macromolecule catabolic process,1.97E-16,6.03E-14,"2.35 (2150,270,315,93)",[+] Show genes
+GO:0006886,intracellular protein transport,6.21E-16,1.83E-13,"2.92 (2150,182,263,65)",[+] Show genes
+GO:0006401,RNA catabolic process,7.78E-16,2.20E-13,"3.04 (2150,215,204,62)",[+] Show genes
+GO:0034613,cellular protein localization,2.50E-15,6.81E-13,"2.68 (2150,194,294,71)",[+] Show genes
+GO:0070727,cellular macromolecule localization,5.85E-15,1.54E-12,"2.62 (2150,201,294,72)",[+] Show genes
+GO:1901361,organic cyclic compound catabolic process,1.74E-14,4.42E-12,"2.51 (2150,248,263,76)",[+] Show genes
+GO:0046700,heterocycle catabolic process,1.74E-14,4.28E-12,"2.51 (2150,248,263,76)",[+] Show genes
+GO:1901575,organic substance catabolic process,2.35E-14,5.58E-12,"2.11 (2150,326,319,102)",[+] Show genes
+GO:0016032,viral process,2.76E-14,6.35E-12,"2.47 (2150,238,263,72)",[+] Show genes
+GO:0044403,symbiont process,2.76E-14,6.16E-12,"2.47 (2150,238,263,72)",[+] Show genes
+GO:0046907,intracellular transport,3.65E-14,7.90E-12,"3.08 (2150,317,110,50)",[+] Show genes
+GO:0044270,cellular nitrogen compound catabolic process,3.86E-14,8.11E-12,"2.48 (2150,251,263,76)",[+] Show genes
+GO:0034655,nucleobase-containing compound catabolic process,5.42E-14,1.11E-11,"2.48 (2150,247,263,75)",[+] Show genes
+GO:0019439,aromatic compound catabolic process,5.42E-14,1.08E-11,"2.48 (2150,247,263,75)",[+] Show genes
+GO:0044248,cellular catabolic process,5.46E-14,1.06E-11,"2.03 (2150,335,319,101)",[+] Show genes
+GO:0009056,catabolic process,6.12E-14,1.15E-11,"2.15 (2150,341,264,90)",[+] Show genes
+GO:0051649,establishment of localization in cell,7.06E-14,1.30E-11,"2.98 (2150,334,110,51)",[+] Show genes
+GO:0044419,interspecies interaction between organisms,2.84E-13,5.09E-11,"2.32 (2150,264,263,75)",[+] Show genes
+GO:0042886,amide transport,3.90E-13,6.83E-11,"2.39 (2150,220,294,72)",[+] Show genes
+GO:0015031,protein transport,3.90E-13,6.67E-11,"2.39 (2150,220,294,72)",[+] Show genes
+GO:0015833,peptide transport,3.90E-13,6.52E-11,"2.39 (2150,220,294,72)",[+] Show genes
+GO:0045184,establishment of protein localization,4.26E-13,6.96E-11,"2.35 (2150,230,294,74)",[+] Show genes
+GO:0051641,cellular localization,5.91E-13,9.45E-11,"2.71 (2150,390,110,54)",[+] Show genes
+GO:0033036,macromolecule localization,7.94E-13,1.24E-10,"2.22 (2150,291,263,79)",[+] Show genes
+GO:0006364,rRNA processing,9.43E-13,1.44E-10,"2.26 (2150,192,377,76)",[+] Show genes
+GO:0016072,rRNA metabolic process,2.12E-12,3.18E-10,"2.19 (2150,205,379,79)",[+] Show genes
+GO:0051179,localization,2.87E-12,4.22E-10,"2.28 (2150,567,105,63)",[+] Show genes
+GO:0034645,cellular macromolecule biosynthetic process,3.71E-12,5.36E-10,"1.97 (2150,370,280,95)",[+] Show genes
+GO:0006810,transport,5.50E-12,7.78E-10,"2.36 (2150,496,110,60)",[+] Show genes
+GO:0051234,establishment of localization,6.73E-12,9.34E-10,"2.32 (2150,513,110,61)",[+] Show genes
+GO:0008104,protein localization,1.47E-11,2.01E-09,"2.19 (2150,276,263,74)",[+] Show genes
+GO:0071702,organic substance transport,2.43E-11,3.25E-09,"2.82 (2150,334,105,46)",[+] Show genes
+GO:1901564,organonitrogen compound metabolic process,3.12E-11,4.10E-09,"1.58 (2150,600,347,153)",[+] Show genes
+GO:0071705,nitrogen compound transport,3.61E-11,4.66E-09,"2.84 (2150,324,105,45)",[+] Show genes
+GO:0044271,cellular nitrogen compound biosynthetic process,8.10E-11,1.03E-08,"1.88 (2150,387,280,95)",[+] Show genes
+GO:0009059,macromolecule biosynthetic process,1.04E-09,1.30E-07,"1.78 (2150,427,280,99)",[+] Show genes
+GO:0044267,cellular protein metabolic process,1.22E-09,1.49E-07,"1.66 (2150,449,347,120)",[+] Show genes
+GO:0002181,cytoplasmic translation,3.94E-09,4.76E-07,"3.91 (2150,38,333,23)",[+] Show genes
+GO:0019538,protein metabolic process,5.25E-09,6.22E-07,"1.65 (2150,485,303,113)",[+] Show genes
+GO:0006139,nucleobase-containing compound metabolic process,6.25E-09,7.29E-07,"1.40 (2150,1131,200,147)",[+] Show genes
+GO:0044249,cellular biosynthetic process,7.56E-09,8.69E-07,"1.67 (2150,491,280,107)",[+] Show genes
+GO:0046483,heterocycle metabolic process,1.15E-08,1.30E-06,"1.39 (2150,1138,200,147)",[+] Show genes
+GO:0006725,cellular aromatic compound metabolic process,1.24E-08,1.39E-06,"1.39 (2150,1139,200,147)",[+] Show genes
+GO:0051704,multi-organism process,1.83E-08,2.01E-06,"1.88 (2150,334,263,77)",[+] Show genes
+GO:1901576,organic substance biosynthetic process,2.78E-08,3.01E-06,"1.64 (2150,501,280,107)",[+] Show genes
+GO:0009058,biosynthetic process,3.42E-08,3.65E-06,"1.63 (2150,509,280,108)",[+] Show genes
+GO:0090304,nucleic acid metabolic process,3.65E-08,3.83E-06,"1.40 (2150,1094,200,142)",[+] Show genes
+GO:1901360,organic cyclic compound metabolic process,3.81E-08,3.94E-06,"1.37 (2150,1153,200,147)",[+] Show genes
+GO:0044237,cellular metabolic process,4.44E-08,4.53E-06,"1.22 (2150,1541,241,210)",[+] Show genes
+GO:0010629,negative regulation of gene expression,4.45E-08,4.48E-06,"1.82 (2150,451,204,78)",[+] Show genes
+GO:0034660,ncRNA metabolic process,4.54E-08,4.51E-06,"1.59 (2150,431,363,116)",[+] Show genes
+GO:0008152,metabolic process,1.17E-07,1.15E-05,"1.20 (2150,1563,241,211)",[+] Show genes
+GO:0016070,RNA metabolic process,1.99E-07,1.92E-05,"1.40 (2150,1017,205,136)",[+] Show genes
+GO:0034641,cellular nitrogen compound metabolic process,4.38E-07,4.19E-05,"1.31 (2150,1217,219,162)",[+] Show genes
+GO:0006418,tRNA aminoacylation for protein translation,6.13E-07,5.78E-05,"3.30 (2150,42,341,22)",[+] Show genes
+GO:0043039,tRNA aminoacylation,1.80E-06,1.68E-04,"3.15 (2150,44,341,22)",[+] Show genes
+GO:0043038,amino acid activation,1.80E-06,1.66E-04,"3.15 (2150,44,341,22)",[+] Show genes
+GO:0055085,transmembrane transport,2.22E-06,2.02E-04,"2.46 (2150,61,444,31)",[+] Show genes
+GO:0034470,ncRNA processing,2.41E-06,2.16E-04,"1.44 (2150,334,586,131)",[+] Show genes
+GO:0044085,cellular component biogenesis,2.52E-06,2.24E-04,"2.55 (2150,51,462,28)",[+] Show genes
+GO:0022613,ribonucleoprotein complex biogenesis,2.52E-06,2.21E-04,"2.55 (2150,51,462,28)",[+] Show genes
+GO:0006520,cellular amino acid metabolic process,5.21E-06,4.51E-04,"2.58 (2150,71,341,29)",[+] Show genes
+GO:0000462,"maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",6.55E-06,5.60E-04,"4.43 (2150,22,287,13)",[+] Show genes
+GO:0010605,negative regulation of macromolecule metabolic process,1.22E-05,1.03E-03,"1.57 (2150,571,204,85)",[+] Show genes
+GO:0006807,nitrogen compound metabolic process,2.30E-05,1.92E-03,"1.18 (2150,1425,297,232)",[+] Show genes
+GO:0009892,negative regulation of metabolic process,2.91E-05,2.40E-03,"1.53 (2150,591,204,86)",[+] Show genes
+GO:0044260,cellular macromolecule metabolic process,3.05E-05,2.49E-03,"1.33 (2150,892,265,146)",[+] Show genes
+GO:0030490,maturation of SSU-rRNA,3.69E-05,2.99E-03,"3.37 (2150,33,309,16)",[+] Show genes
+GO:0048519,negative regulation of biological process,4.80E-05,3.83E-03,"1.42 (2150,781,199,103)",[+] Show genes
+GO:0071704,organic substance metabolic process,6.42E-05,5.08E-03,"1.17 (2150,1505,241,198)",[+] Show genes
+GO:0014003,oligodendrocyte development,6.73E-05,5.27E-03,"21.94 (2150,7,56,4)",[+] Show genes
+GO:0001541,ovarian follicle development,6.73E-05,5.21E-03,"21.94 (2150,7,56,4)",[+] Show genes
+GO:0050851,antigen receptor-mediated signaling pathway,7.25E-05,5.55E-03,"3.55 (2150,28,303,14)",[+] Show genes
+GO:0050852,T cell receptor signaling pathway,7.25E-05,5.49E-03,"3.55 (2150,28,303,14)",[+] Show genes
+GO:0000470,maturation of LSU-rRNA,7.36E-05,5.52E-03,"2.51 (2150,24,643,18)",[+] Show genes
+GO:0098660,inorganic ion transmembrane transport,9.32E-05,6.92E-03,"7.62 (2150,14,141,7)",[+] Show genes
+GO:0042776,mitochondrial ATP synthesis coupled proton transport,9.85E-05,7.25E-03,"26.22 (2150,3,82,3)",[+] Show genes
+GO:0015986,ATP synthesis coupled proton transport,9.85E-05,7.18E-03,"26.22 (2150,3,82,3)",[+] Show genes
+GO:0015985,"energy coupled proton transport, down electrochemical gradient",9.85E-05,7.11E-03,"26.22 (2150,3,82,3)",[+] Show genes
+GO:0044238,primary metabolic process,1.17E-04,8.33E-03,"1.17 (2150,1441,297,232)",[+] Show genes
+GO:0007007,inner mitochondrial membrane organization,1.19E-04,8.41E-03,"17.48 (2150,6,82,4)",[+] Show genes
+GO:0043170,macromolecule metabolic process,1.22E-04,8.55E-03,"1.17 (2150,1422,297,229)",[+] Show genes
+GO:0008366,axon ensheathment,1.78E-04,1.24E-02,"28.79 (2150,4,56,3)",[+] Show genes
+GO:0042552,myelination,1.78E-04,1.23E-02,"28.79 (2150,4,56,3)",[+] Show genes
+GO:0007272,ensheathment of neurons,1.78E-04,1.22E-02,"28.79 (2150,4,56,3)",[+] Show genes
+GO:1902600,proton transmembrane transport,2.49E-04,1.68E-02,"12.84 (2150,5,134,4)",[+] Show genes
+GO:0070670,response to interleukin-4,2.58E-04,1.72E-02,"35.44 (2150,7,26,3)",[+] Show genes
+GO:0071353,cellular response to interleukin-4,2.58E-04,1.71E-02,"35.44 (2150,7,26,3)",[+] Show genes
+GO:0010468,regulation of gene expression,2.80E-04,1.84E-02,"1.29 (2150,894,264,142)",[+] Show genes
+GO:0000027,ribosomal large subunit assembly,3.00E-04,1.95E-02,"3.84 (2150,22,280,11)",[+] Show genes
+GO:0016071,mRNA metabolic process,3.12E-04,2.01E-02,"1.89 (2150,553,72,35)",[+] Show genes
+GO:0002479,"antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent",4.00E-04,2.56E-02,"2.89 (2150,19,509,13)",[+] Show genes
+GO:0042590,antigen processing and presentation of exogenous peptide antigen via MHC class I,4.00E-04,2.54E-02,"2.89 (2150,19,509,13)",[+] Show genes
+GO:1904667,negative regulation of ubiquitin protein ligase activity,4.51E-04,2.83E-02,"8.74 (2150,4,246,4)",[+] Show genes
+GO:1904666,regulation of ubiquitin protein ligase activity,4.51E-04,2.81E-02,"8.74 (2150,4,246,4)",[+] Show genes
+GO:0000028,ribosomal small subunit assembly,4.58E-04,2.83E-02,"4.08 (2150,14,339,9)",[+] Show genes
+GO:0031146,SCF-dependent proteasomal ubiquitin-dependent protein catabolic process,4.81E-04,2.95E-02,"2.98 (2150,17,509,12)",[+] Show genes
+GO:0042274,ribosomal small subunit biogenesis,5.24E-04,3.19E-02,"3.73 (2150,17,339,10)",[+] Show genes
+GO:0006119,oxidative phosphorylation,5.81E-04,3.50E-02,"19.66 (2150,4,82,3)",[+] Show genes
+GO:0048701,embryonic cranial skeleton morphogenesis,5.93E-04,3.55E-02,"14.53 (2150,3,148,3)",[+] Show genes
+GO:0098662,inorganic cation transmembrane transport,6.65E-04,3.94E-02,"7.04 (2150,13,141,6)",[+] Show genes
+GO:0031100,animal organ regeneration,7.08E-04,4.17E-02,"107.50 (2150,8,5,2)",[+] Show genes
+GO:0000463,"maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",8.37E-04,4.88E-02,"6.41 (2150,11,183,6)",[+] Show genes
+GO:0002429,immune response-activating cell surface receptor signaling pathway,8.51E-04,4.93E-02,"4.69 (2150,35,118,9)",[+] Show genes
