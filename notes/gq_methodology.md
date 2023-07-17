@@ -18,6 +18,8 @@
 - In GOrilla, the input includes the organism expressed as Homo sapiens and a single ranked list of Gene IDs (sgRNA) based on the variable positive selection ranking (pos|rank). The positive selection ranking pertains to the specific targeting of genes involved in increasing introns.
     - **Single-guide RNA (sgRNA)** is a molecule used in the CRISPR-Cas9 gene editing system. It is a synthetic RNA sequence that consists of a targeting sequence complementary to a specific DNA sequence of interest and a scaffold sequence that binds to the Cas9 enzyme. The sgRNA guides the Cas9 enzyme to the desired DNA target site, enabling precise gene editing or modification.
     - ![Given Data Set]()
+- The data was given to   it was generated (e.g. a custom CRISPR screen designed by our lab (aka RELIC screen) using the intron-retention/splicing reporter)
+
 - **Results** - https://cbl-gorilla.cs.technion.ac.il/GOrilla/zctdtiao/GOResults.html 
 ## What does output mean?
 ## Conclusion
