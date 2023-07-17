@@ -1,0 +1,92 @@
+﻿GO term,Description,P-value,FDR q-value,"Enrichment (N, B, n, b)",Genes
+GO:0000398,"mRNA splicing, via spliceosome",2.83E-24,2.08E-20,"5.37 (2149,235,80,47)",[+] Show genes
+GO:0000377,"RNA splicing, via transesterification reactions with bulged adenosine as nucleophile",2.83E-24,1.04E-20,"5.37 (2149,235,80,47)",[+] Show genes
+GO:0000375,"RNA splicing, via transesterification reactions",6.51E-24,1.59E-20,"5.28 (2149,239,80,47)",[+] Show genes
+GO:0008380,RNA splicing,8.17E-20,1.50E-16,"3.86 (2149,321,92,53)",[+] Show genes
+GO:0006397,mRNA processing,6.70E-17,9.86E-14,"3.57 (2149,369,80,49)",[+] Show genes
+GO:0016071,mRNA metabolic process,1.79E-12,2.19E-09,"3.42 (2149,552,33,29)",[+] Show genes
+GO:0006396,RNA processing,2.27E-09,2.39E-06,"2.66 (2149,711,33,29)",[+] Show genes
+GO:0010972,negative regulation of G2/M transition of mitotic cell cycle,2.03E-08,1.87E-05,"5.31 (2149,21,289,15)",[+] Show genes
+GO:1902750,negative regulation of cell cycle G2/M phase transition,5.98E-08,4.88E-05,"5.07 (2149,22,289,15)",[+] Show genes
+GO:0038095,Fc-epsilon receptor signaling pathway,5.56E-07,4.09E-04,"5.09 (2149,19,289,13)",[+] Show genes
+GO:0002479,"antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent",5.56E-07,3.72E-04,"5.09 (2149,19,289,13)",[+] Show genes
+GO:0042590,antigen processing and presentation of exogenous peptide antigen via MHC class I,5.56E-07,3.41E-04,"5.09 (2149,19,289,13)",[+] Show genes
+GO:0038093,Fc receptor signaling pathway,7.63E-07,4.31E-04,"4.73 (2149,22,289,14)",[+] Show genes
+GO:0038061,NIK/NF-kappaB signaling,1.03E-06,5.41E-04,"5.25 (2149,17,289,12)",[+] Show genes
+GO:0031146,SCF-dependent proteasomal ubiquitin-dependent protein catabolic process,1.03E-06,5.05E-04,"5.25 (2149,17,289,12)",[+] Show genes
+GO:0043618,regulation of transcription from RNA polymerase II promoter in response to stress,1.61E-06,7.38E-04,"5.08 (2149,23,239,13)",[+] Show genes
+GO:0000387,spliceosomal snRNP assembly,2.04E-06,8.82E-04,"3.84 (2149,32,297,17)",[+] Show genes
+GO:0002220,innate immune response activating cell surface receptor signaling pathway,2.27E-06,9.28E-04,"3.87 (2149,18,432,14)",[+] Show genes
+GO:0002223,stimulatory C-type lectin receptor signaling pathway,2.27E-06,8.79E-04,"3.87 (2149,18,432,14)",[+] Show genes
+GO:1901532,regulation of hematopoietic progenitor cell differentiation,2.38E-06,8.74E-04,"3.32 (2149,27,432,18)",[+] Show genes
+GO:0006521,regulation of cellular amino acid metabolic process,2.88E-06,1.01E-03,"4.96 (2149,18,289,12)",[+] Show genes
+GO:0033238,regulation of cellular amine metabolic process,2.88E-06,9.62E-04,"4.96 (2149,18,289,12)",[+] Show genes
+GO:0043620,regulation of DNA-templated transcription in response to stress,3.25E-06,1.04E-03,"4.87 (2149,24,239,13)",[+] Show genes
+GO:0090263,positive regulation of canonical Wnt signaling pathway,3.25E-06,9.95E-04,"4.87 (2149,24,239,13)",[+] Show genes
+GO:1905330,regulation of morphogenesis of an epithelium,3.39E-06,9.98E-04,"4.60 (2149,21,289,13)",[+] Show genes
+GO:0043170,macromolecule metabolic process,4.11E-06,1.16E-03,"1.38 (2149,1421,78,71)",[+] Show genes
+GO:0010499,proteasomal ubiquitin-independent protein catabolic process,7.38E-06,2.01E-03,"7.87 (2149,8,239,7)",[+] Show genes
+GO:0002474,antigen processing and presentation of peptide antigen via MHC class I,7.43E-06,1.95E-03,"4.39 (2149,22,289,13)",[+] Show genes
+GO:0010565,regulation of cellular ketone metabolic process,7.43E-06,1.88E-03,"4.39 (2149,22,289,13)",[+] Show genes
+GO:0031145,anaphase-promoting complex-dependent catabolic process,7.46E-06,1.83E-03,"4.70 (2149,19,289,12)",[+] Show genes
+GO:0061418,regulation of transcription from RNA polymerase II promoter in response to hypoxia,7.46E-06,1.77E-03,"4.70 (2149,19,289,12)",[+] Show genes
+GO:1902036,regulation of hematopoietic stem cell differentiation,1.07E-05,2.45E-03,"3.32 (2149,24,432,16)",[+] Show genes
+GO:0030177,positive regulation of Wnt signaling pathway,1.08E-05,2.41E-03,"4.50 (2149,26,239,13)",[+] Show genes
+GO:0044238,primary metabolic process,1.55E-05,3.34E-03,"1.38 (2149,1440,67,62)",[+] Show genes
+GO:0090175,regulation of establishment of planar polarity,1.55E-05,3.26E-03,"4.46 (2149,20,289,12)",[+] Show genes
+GO:0060071,"Wnt signaling pathway, planar cell polarity pathway",1.55E-05,3.17E-03,"4.46 (2149,20,289,12)",[+] Show genes
+GO:0070498,interleukin-1-mediated signaling pathway,1.55E-05,3.08E-03,"4.46 (2149,20,289,12)",[+] Show genes
+GO:0071704,organic substance metabolic process,1.62E-05,3.13E-03,"1.34 (2149,1504,67,63)",[+] Show genes
+GO:0016070,RNA metabolic process,2.80E-05,5.28E-03,"1.86 (2149,1016,33,29)",[+] Show genes
+GO:0006807,nitrogen compound metabolic process,3.04E-05,5.60E-03,"1.36 (2149,1424,72,65)",[+] Show genes
+GO:0033209,tumor necrosis factor-mediated signaling pathway,3.15E-05,5.66E-03,"4.25 (2149,21,289,12)",[+] Show genes
+GO:0035567,non-canonical Wnt signaling pathway,3.29E-05,5.76E-03,"4.17 (2149,28,239,13)",[+] Show genes
+GO:0006359,regulation of transcription by RNA polymerase III,4.33E-05,7.41E-03,"6.74 (2149,6,319,6)",[+] Show genes
+GO:0006913,nucleocytoplasmic transport,4.44E-05,7.43E-03,"2.15 (2149,143,259,37)",[+] Show genes
+GO:0030178,negative regulation of Wnt signaling pathway,4.70E-05,7.68E-03,"4.32 (2149,25,239,12)",[+] Show genes
+GO:0051716,cellular response to stimulus,5.02E-05,8.02E-03,"2.06 (2149,383,101,37)",[+] Show genes
+GO:0060828,regulation of canonical Wnt signaling pathway,5.26E-05,8.22E-03,"4.03 (2149,29,239,13)",[+] Show genes
+GO:0010498,proteasomal protein catabolic process,5.61E-05,8.59E-03,"2.78 (2149,34,432,19)",[+] Show genes
+GO:0090090,negative regulation of canonical Wnt signaling pathway,6.10E-05,9.15E-03,"4.06 (2149,22,289,12)",[+] Show genes
+GO:0051169,nuclear transport,6.27E-05,9.22E-03,"2.12 (2149,145,259,37)",[+] Show genes
+GO:0030111,regulation of Wnt signaling pathway,7.96E-05,1.15E-02,"3.70 (2149,34,239,14)",[+] Show genes
+GO:0090304,nucleic acid metabolic process,9.34E-05,1.32E-02,"1.63 (2149,1093,47,39)",[+] Show genes
+GO:0000209,protein polyubiquitination,1.05E-04,1.46E-02,"2.62 (2149,38,432,20)",[+] Show genes
+GO:0010948,negative regulation of cell cycle process,1.15E-04,1.57E-02,"2.64 (2149,62,289,22)",[+] Show genes
+GO:0010389,regulation of G2/M transition of mitotic cell cycle,1.18E-04,1.58E-02,"2.99 (2149,37,330,17)",[+] Show genes
+GO:0043161,proteasome-mediated ubiquitin-dependent protein catabolic process,1.41E-04,1.86E-02,"2.71 (2149,33,432,18)",[+] Show genes
+GO:1903311,regulation of mRNA metabolic process,1.45E-04,1.87E-02,"1.53 (2149,250,439,78)",[+] Show genes
+GO:0000350,generation of catalytic spliceosome for second transesterification step,1.48E-04,1.88E-02,"113.11 (2149,2,19,2)",[+] Show genes
+GO:1901991,negative regulation of mitotic cell cycle phase transition,1.71E-04,2.13E-02,"2.78 (2149,47,313,19)",[+] Show genes
+GO:0008152,metabolic process,1.74E-04,2.13E-02,"1.29 (2149,1562,67,63)",[+] Show genes
+GO:2000027,regulation of animal organ morphogenesis,1.95E-04,2.35E-02,"3.72 (2149,24,289,12)",[+] Show genes
+GO:0002478,antigen processing and presentation of exogenous peptide antigen,2.03E-04,2.41E-02,"2.18 (2149,29,715,21)",[+] Show genes
+GO:0019884,antigen processing and presentation of exogenous antigen,2.03E-04,2.37E-02,"2.18 (2149,29,715,21)",[+] Show genes
+GO:0000390,spliceosomal complex disassembly,2.19E-04,2.52E-02,"93.43 (2149,2,23,2)",[+] Show genes
+GO:2000736,regulation of stem cell differentiation,2.26E-04,2.56E-02,"2.73 (2149,31,432,17)",[+] Show genes
+GO:0045930,negative regulation of mitotic cell cycle,2.39E-04,2.66E-02,"3.18 (2149,52,208,16)",[+] Show genes
+GO:1901988,negative regulation of cell cycle phase transition,2.39E-04,2.63E-02,"2.72 (2149,48,313,19)",[+] Show genes
+GO:0006139,nucleobase-containing compound metabolic process,2.41E-04,2.61E-02,"1.58 (2149,1130,47,39)",[+] Show genes
+GO:1902749,regulation of cell cycle G2/M phase transition,2.76E-04,2.94E-02,"2.84 (2149,39,330,17)",[+] Show genes
+GO:0016055,Wnt signaling pathway,2.84E-04,2.98E-02,"3.21 (2149,42,239,15)",[+] Show genes
+GO:0046483,heterocycle metabolic process,2.85E-04,2.95E-02,"1.57 (2149,1137,47,39)",[+] Show genes
+GO:0006725,cellular aromatic compound metabolic process,2.92E-04,2.99E-02,"1.57 (2149,1138,47,39)",[+] Show genes
+GO:0051179,localization,2.96E-04,2.98E-02,"1.39 (2149,567,291,107)",[+] Show genes
+GO:1901990,regulation of mitotic cell cycle phase transition,3.50E-04,3.48E-02,"2.26 (2149,75,330,26)",[+] Show genes
+GO:0048002,antigen processing and presentation of peptide antigen,3.56E-04,3.49E-02,"3.15 (2149,30,318,14)",[+] Show genes
+GO:0019882,antigen processing and presentation,3.56E-04,3.44E-02,"3.15 (2149,30,318,14)",[+] Show genes
+GO:1905114,cell surface receptor signaling pathway involved in cell-cell signaling,3.85E-04,3.68E-02,"3.14 (2149,43,239,15)",[+] Show genes
+GO:0030163,protein catabolic process,4.04E-04,3.81E-02,"1.69 (2149,41,995,32)",[+] Show genes
+GO:0044237,cellular metabolic process,4.16E-04,3.87E-02,"1.29 (2149,1540,67,62)",[+] Show genes
+GO:1901360,organic cyclic compound metabolic process,4.44E-04,4.08E-02,"1.55 (2149,1152,47,39)",[+] Show genes
+GO:0016567,protein ubiquitination,4.89E-04,4.44E-02,"2.67 (2149,61,251,19)",[+] Show genes
+GO:0033554,cellular response to stress,5.03E-04,4.51E-02,"2.18 (2149,264,101,27)",[+] Show genes
+GO:0006283,transcription-coupled nucleotide-excision repair,5.10E-04,4.52E-02,"2.81 (2149,23,465,14)",[+] Show genes
+GO:1901987,regulation of cell cycle phase transition,5.69E-04,4.98E-02,"2.20 (2149,77,330,26)",[+] Show genes
+GO:0051170,import into nucleus,6.18E-04,5.35E-02,"2.89 (2149,46,259,16)",[+] Show genes
+GO:0016579,protein deubiquitination,6.55E-04,5.60E-02,"3.15 (2149,40,239,14)",[+] Show genes
+GO:0051234,establishment of localization,7.93E-04,6.71E-02,"1.40 (2149,513,291,97)",[+] Show genes
+GO:0048585,negative regulation of response to stimulus,8.13E-04,6.79E-02,"1.82 (2149,155,313,41)",[+] Show genes
+GO:0006289,nucleotide-excision repair,8.42E-04,6.96E-02,"10.41 (2149,24,43,5)",[+] Show genes
+GO:0070646,protein modification by small protein removal,8.92E-04,7.29E-02,"3.07 (2149,41,239,14)",[+] Show genes
+GO:0019941,modification-dependent protein catabolic process,9.48E-04,7.66E-02,"3.56 (2149,47,154,12)",[+] Show genes
