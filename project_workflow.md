@@ -59,3 +59,12 @@
   - What you did to the dataset (you can describe this in words, code, or pseudocode) before feeding it into the GO website
   - What the results/outputs were from the GO website
   - Your interpretation of the outputs from the GO website in the context of the ReLiC screen you're working with
+
+## Visualizing GO analysis output
+- With your RELIC screen GO analysis outputs (the csv files called ```cb_go_output.csv``` and ```gq_go_output.csv``` inside our ```data``` directory), you will want to do the following using ```pandas``` in a python jupyter notebook:
+  - Filter your dataframe so that you only keep data where q < 0.05.
+  - Figure out how to split the column named "Enrichment (N, B, n, b)" such that you just keep the information in front of the parenthesis 
+    - For example, if the cell's value is "4.48 (2150,115,263,63)", we just want to keep the "4.48" value since the values inside the parenthesis are not useful to us at the moment
+    - This is harder than it seems! I recommend thinking about what you want to do to the dataframe in words, and googling that along with the keywords "python" and "pandas". StackOverflow is a useful website where people frequently ask code-related questions and get good answers.
+  - Finally, plot a histogram of enrichment values from the resultant data. This will help us decide where to cut off the data such that we aren't needing to make a plot out of a ton of terms.
+- The jupyter notebook ```code/kc_pandas_go_analysis.ipynb``` will probably help you get started (treat it as a ```pandas``` tutorial). You should save this notebook into our ```code``` directory with your initials, and then you can do your analysis there if you like. Either way, make sure to version control your code (.ipynb files) and notes (.md files) and name your files following the conventions noted above that we talked about previously.
