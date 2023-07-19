@@ -17,11 +17,15 @@
 ## GOrilla - Input Data
 - In GOrilla, the input includes the organism expressed as Homo sapiens and a single ranked list of Gene IDs (sgRNA) based on the variable positive selection ranking (pos|rank). The positive selection ranking pertains to the specific targeting of genes involved in increasing introns.
     - **Single-guide RNA (sgRNA)** is a molecule used in the CRISPR-Cas9 gene editing system. It is a synthetic RNA sequence that consists of a targeting sequence complementary to a specific DNA sequence of interest and a scaffold sequence that binds to the Cas9 enzyme. The sgRNA guides the Cas9 enzyme to the desired DNA target site, enabling precise gene editing or modification.
-    - ![Given Data Set]()
+    - **Insert Data Set**
 - The data was given to   it was generated (e.g. a custom CRISPR screen designed by our lab (aka RELIC screen) using the intron-retention/splicing reporter)
-
 - **Results** - https://cbl-gorilla.cs.technion.ac.il/GOrilla/zctdtiao/GOResults.html 
-## What does output mean?
+## Output
+- https://www.science.org/doi/10.1126/science.abb9662 - Figure 1F
+- Specficed the signficant gene IDs within the positive selection ranking
+- Filtered out the FDR (q-value), False Discovery Rate, (q<0.05)
+    - Researchers used the False Discovery Rate (FDR) control method to identify significant genes from the vast gene expression dataset, ensuring that only a small proportion of the reported associations were likely to be false positives.
+- Fold Enrichment - 
 ## Conclusion
 ## References
 - https://sourceforge.net/p/mageck/wiki/Home/#gene_summary_txt
@@ -29,3 +33,5 @@
 - https://www.yourgenome.org/facts/what-is-crispr-cas9/
 - https://www.khanacademy.org/college-careers-more/bjc/2015-challenge/2015-life-science/v/bjc-crispr-cas-9
 - https://link.springer.com/article/10.1186/s13059-015-0843-6 
+- https://www.science.org/doi/10.1126/science.abb9662
+- https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-10-48#Sec5
