@@ -1,0 +1,62 @@
+GO term,Description,P-value,FDR q-value,"Enrichment (N, B, n, b)",Genes,enrichment,Enrichment,Calculation1,Calculation2,Calculation3,Calculation4
+GO:0000350,generation of catalytic spliceosome for second transesterification step,0.000148,0.0188,"113.11 (2149,2,19,2)",[+] Show genes,113.0,113.11 (2149,,2,,19
+GO:0000390,spliceosomal complex disassembly,0.000219,0.0252,"93.43 (2149,2,23,2)",[+] Show genes,93.0,93.43 (2149,,2,,23
+GO:0010499,proteasomal ubiquitin-independent protein catabolic process,7.38e-06,0.00201,"7.87 (2149,8,239,7)",[+] Show genes,8.0,7.87 (2149,,8,,239
+GO:0006359,regulation of transcription by RNA polymerase III,4.33e-05,0.00741,"6.74 (2149,6,319,6)",[+] Show genes,7.0,6.74 (2149,,6,,319
+GO:0031146,SCF-dependent proteasomal ubiquitin-dependent protein catabolic process,1.03e-06,0.000505,"5.25 (2149,17,289,12)",[+] Show genes,5.0,5.25 (2149,,17,,289
+GO:0000377,"RNA splicing, via transesterification reactions with bulged adenosine as nucleophile",2.83e-24,1.04e-20,"5.37 (2149,235,80,47)",[+] Show genes,5.0,5.37 (2149,,235,,80
+GO:0061418,regulation of transcription from RNA polymerase II promoter in response to hypoxia,7.46e-06,0.00177,"4.70 (2149,19,289,12)",[+] Show genes,5.0,4.70 (2149,,19,,289
+GO:0031145,anaphase-promoting complex-dependent catabolic process,7.46e-06,0.00183,"4.70 (2149,19,289,12)",[+] Show genes,5.0,4.70 (2149,,19,,289
+GO:1905330,regulation of morphogenesis of an epithelium,3.39e-06,0.000998,"4.60 (2149,21,289,13)",[+] Show genes,5.0,4.60 (2149,,21,,289
+GO:0090263,positive regulation of canonical Wnt signaling pathway,3.25e-06,0.000995,"4.87 (2149,24,239,13)",[+] Show genes,5.0,4.87 (2149,,24,,239
+GO:0043620,regulation of DNA-templated transcription in response to stress,3.25e-06,0.00104,"4.87 (2149,24,239,13)",[+] Show genes,5.0,4.87 (2149,,24,,239
+GO:0033238,regulation of cellular amine metabolic process,2.88e-06,0.000962,"4.96 (2149,18,289,12)",[+] Show genes,5.0,4.96 (2149,,18,,289
+GO:0006521,regulation of cellular amino acid metabolic process,2.88e-06,0.00101,"4.96 (2149,18,289,12)",[+] Show genes,5.0,4.96 (2149,,18,,289
+GO:0043618,regulation of transcription from RNA polymerase II promoter in response to stress,1.61e-06,0.000738,"5.08 (2149,23,239,13)",[+] Show genes,5.0,5.08 (2149,,23,,239
+GO:0000398,"mRNA splicing, via spliceosome",2.83e-24,2.08e-20,"5.37 (2149,235,80,47)",[+] Show genes,5.0,5.37 (2149,,235,,80
+GO:0038061,NIK/NF-kappaB signaling,1.03e-06,0.000541,"5.25 (2149,17,289,12)",[+] Show genes,5.0,5.25 (2149,,17,,289
+GO:0042590,antigen processing and presentation of exogenous peptide antigen via MHC class I,5.56e-07,0.000341,"5.09 (2149,19,289,13)",[+] Show genes,5.0,5.09 (2149,,19,,289
+GO:0010972,negative regulation of G2/M transition of mitotic cell cycle,2.03e-08,1.87e-05,"5.31 (2149,21,289,15)",[+] Show genes,5.0,5.31 (2149,,21,,289
+GO:1902750,negative regulation of cell cycle G2/M phase transition,5.98e-08,4.88e-05,"5.07 (2149,22,289,15)",[+] Show genes,5.0,5.07 (2149,,22,,289
+GO:0002479,"antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent",5.56e-07,0.000372,"5.09 (2149,19,289,13)",[+] Show genes,5.0,5.09 (2149,,19,,289
+GO:0038095,Fc-epsilon receptor signaling pathway,5.56e-07,0.000409,"5.09 (2149,19,289,13)",[+] Show genes,5.0,5.09 (2149,,19,,289
+GO:0038093,Fc receptor signaling pathway,7.63e-07,0.000431,"4.73 (2149,22,289,14)",[+] Show genes,5.0,4.73 (2149,,22,,289
+GO:0000375,"RNA splicing, via transesterification reactions",6.5099999999999996e-24,1.59e-20,"5.28 (2149,239,80,47)",[+] Show genes,5.0,5.28 (2149,,239,,80
+GO:0090090,negative regulation of canonical Wnt signaling pathway,6.1e-05,0.00915,"4.06 (2149,22,289,12)",[+] Show genes,4.0,4.06 (2149,,22,,289
+GO:0060071,"Wnt signaling pathway, planar cell polarity pathway",1.55e-05,0.00317,"4.46 (2149,20,289,12)",[+] Show genes,4.0,4.46 (2149,,20,,289
+GO:0030111,regulation of Wnt signaling pathway,7.96e-05,0.0115,"3.70 (2149,34,239,14)",[+] Show genes,4.0,3.70 (2149,,34,,239
+GO:0060828,regulation of canonical Wnt signaling pathway,5.26e-05,0.00822,"4.03 (2149,29,239,13)",[+] Show genes,4.0,4.03 (2149,,29,,239
+GO:0030178,negative regulation of Wnt signaling pathway,4.7e-05,0.00768,"4.32 (2149,25,239,12)",[+] Show genes,4.0,4.32 (2149,,25,,239
+GO:0008380,RNA splicing,8.17e-20,1.5e-16,"3.86 (2149,321,92,53)",[+] Show genes,4.0,3.86 (2149,,321,,92
+GO:0035567,non-canonical Wnt signaling pathway,3.29e-05,0.00576,"4.17 (2149,28,239,13)",[+] Show genes,4.0,4.17 (2149,,28,,239
+GO:0033209,tumor necrosis factor-mediated signaling pathway,3.15e-05,0.00566,"4.25 (2149,21,289,12)",[+] Show genes,4.0,4.25 (2149,,21,,289
+GO:0070498,interleukin-1-mediated signaling pathway,1.55e-05,0.00308,"4.46 (2149,20,289,12)",[+] Show genes,4.0,4.46 (2149,,20,,289
+GO:0090175,regulation of establishment of planar polarity,1.55e-05,0.00326,"4.46 (2149,20,289,12)",[+] Show genes,4.0,4.46 (2149,,20,,289
+GO:0000387,spliceosomal snRNP assembly,2.04e-06,0.000882,"3.84 (2149,32,297,17)",[+] Show genes,4.0,3.84 (2149,,32,,297
+GO:0002474,antigen processing and presentation of peptide antigen via MHC class I,7.43e-06,0.00195,"4.39 (2149,22,289,13)",[+] Show genes,4.0,4.39 (2149,,22,,289
+GO:0002220,innate immune response activating cell surface receptor signaling pathway,2.27e-06,0.000928,"3.87 (2149,18,432,14)",[+] Show genes,4.0,3.87 (2149,,18,,432
+GO:0002223,stimulatory C-type lectin receptor signaling pathway,2.27e-06,0.000879,"3.87 (2149,18,432,14)",[+] Show genes,4.0,3.87 (2149,,18,,432
+GO:0030177,positive regulation of Wnt signaling pathway,1.08e-05,0.00241,"4.50 (2149,26,239,13)",[+] Show genes,4.0,4.50 (2149,,26,,239
+GO:2000027,regulation of animal organ morphogenesis,0.000195,0.0235,"3.72 (2149,24,289,12)",[+] Show genes,4.0,3.72 (2149,,24,,289
+GO:0010565,regulation of cellular ketone metabolic process,7.43e-06,0.00188,"4.39 (2149,22,289,13)",[+] Show genes,4.0,4.39 (2149,,22,,289
+GO:0006397,mRNA processing,6.7e-17,9.86e-14,"3.57 (2149,369,80,49)",[+] Show genes,4.0,3.57 (2149,,369,,80
+GO:0048002,antigen processing and presentation of peptide antigen,0.000356,0.0349,"3.15 (2149,30,318,14)",[+] Show genes,3.0,3.15 (2149,,30,,318
+GO:1905114,cell surface receptor signaling pathway involved in cell-cell signaling,0.000385,0.0368,"3.14 (2149,43,239,15)",[+] Show genes,3.0,3.14 (2149,,43,,239
+GO:0016567,protein ubiquitination,0.000489,0.0444,"2.67 (2149,61,251,19)",[+] Show genes,3.0,2.67 (2149,,61,,251
+GO:0016055,Wnt signaling pathway,0.000284,0.0298,"3.21 (2149,42,239,15)",[+] Show genes,3.0,3.21 (2149,,42,,239
+GO:1902749,regulation of cell cycle G2/M phase transition,0.000276,0.0294,"2.84 (2149,39,330,17)",[+] Show genes,3.0,2.84 (2149,,39,,330
+GO:1901988,negative regulation of cell cycle phase transition,0.000239,0.0263,"2.72 (2149,48,313,19)",[+] Show genes,3.0,2.72 (2149,,48,,313
+GO:0045930,negative regulation of mitotic cell cycle,0.000239,0.0266,"3.18 (2149,52,208,16)",[+] Show genes,3.0,3.18 (2149,,52,,208
+GO:2000736,regulation of stem cell differentiation,0.000226,0.0256,"2.73 (2149,31,432,17)",[+] Show genes,3.0,2.73 (2149,,31,,432
+GO:0019882,antigen processing and presentation,0.000356,0.0344,"3.15 (2149,30,318,14)",[+] Show genes,3.0,3.15 (2149,,30,,318
+GO:1902036,regulation of hematopoietic stem cell differentiation,1.07e-05,0.00245,"3.32 (2149,24,432,16)",[+] Show genes,3.0,3.32 (2149,,24,,432
+GO:1901991,negative regulation of mitotic cell cycle phase transition,0.000171,0.0213,"2.78 (2149,47,313,19)",[+] Show genes,3.0,2.78 (2149,,47,,313
+GO:0043161,proteasome-mediated ubiquitin-dependent protein catabolic process,0.000141,0.0186,"2.71 (2149,33,432,18)",[+] Show genes,3.0,2.71 (2149,,33,,432
+GO:0010389,regulation of G2/M transition of mitotic cell cycle,0.000118,0.0158,"2.99 (2149,37,330,17)",[+] Show genes,3.0,2.99 (2149,,37,,330
+GO:0010948,negative regulation of cell cycle process,0.000115,0.0157,"2.64 (2149,62,289,22)",[+] Show genes,3.0,2.64 (2149,,62,,289
+GO:0000209,protein polyubiquitination,0.000105,0.0146,"2.62 (2149,38,432,20)",[+] Show genes,3.0,2.62 (2149,,38,,432
+GO:0010498,proteasomal protein catabolic process,5.61e-05,0.00859,"2.78 (2149,34,432,19)",[+] Show genes,3.0,2.78 (2149,,34,,432
+GO:1901532,regulation of hematopoietic progenitor cell differentiation,2.38e-06,0.000874,"3.32 (2149,27,432,18)",[+] Show genes,3.0,3.32 (2149,,27,,432
+GO:0006396,RNA processing,2.27e-09,2.39e-06,"2.66 (2149,711,33,29)",[+] Show genes,3.0,2.66 (2149,,711,,33
+GO:0016071,mRNA metabolic process,1.79e-12,2.19e-09,"3.42 (2149,552,33,29)",[+] Show genes,3.0,3.42 (2149,,552,,33
+GO:0006283,transcription-coupled nucleotide-excision repair,0.00051,0.0452,"2.81 (2149,23,465,14)",[+] Show genes,3.0,2.81 (2149,,23,,465
