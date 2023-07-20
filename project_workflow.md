@@ -128,6 +128,7 @@
   - The screenshotted image should be renamed to be something easily computer-readable (e.g. "splicing_go_output_dag.png" or something similar)
   - The image should also be pushed to github
   - When you look at your summary document on github (i.e. on the [web]("https://github.com/kychen37/rasilab_spelman_2023/tree/main")), you should see the image you linked displayed within the file. If you don't see it, that means you need to fix the link by changing the path in your markdown document
+- Finally, if you have time to convert the notes you have on google docs to markdown and push them to github that would be ideal. Currently it doesn't look like I have access to the google doc that you linked on our [README](https://github.com/kychen37/rasilab_spelman_2023/blob/main/README.md#link-to-notes-checklist) page
 
 ### Presentations
 - Whenever you finish the above, you can work on the presentations you have coming up:
