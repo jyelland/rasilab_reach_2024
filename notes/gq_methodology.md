@@ -23,9 +23,13 @@
 ## Output
 - https://www.science.org/doi/10.1126/science.abb9662 - Figure 1F
 - Specficed the signficant gene IDs within the positive selection ranking
-- Filtered out the FDR (q-value), False Discovery Rate, (q<0.05)
+- From table, I filtered out the FDR (q-value), False Discovery Rate, (q<0.05)
     - Researchers used the False Discovery Rate (FDR) control method to identify significant genes from the vast gene expression dataset, ensuring that only a small proportion of the reported associations were likely to be false positives.
-- Fold Enrichment - 
+- Split the Enrichment column to get the "enrichment" number by itself 
+- Rounded the "enrichment" number to see if the frequency of numbers were significant to the research
+    - Created a histogram to view the enrichment
+- With viewing the table, q-value is more significant to the objective. Highlighting on the table is sufficent to show that the lowest q-values are for splicing and RNA processing. 
+    - Showing GO term, description, q-value, enrichment, number of genes in that GO term 
 ## Conclusion
 ## References
 - https://sourceforge.net/p/mageck/wiki/Home/#gene_summary_txt
