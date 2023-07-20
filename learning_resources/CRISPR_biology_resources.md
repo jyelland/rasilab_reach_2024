@@ -13,3 +13,5 @@ https://innovativegenomics.org/education/digital-resources/what-is-crispr/
 
 ## Relevant papers on CRISPR screening
 - A very good review of CRISPR screening technology: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8525197/
+- Another very good review of CRISPR screening methods: https://www.nature.com/articles/s41576-021-00409-w
+- CiBER-seq paper: https://www.science.org/doi/10.1126/science.abb9662
