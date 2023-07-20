@@ -1,62 +1,70 @@
 GO term,Description,FDR q-value,enrichment,AssociatedGenes
-GO:0000377,"RNA splicing, via transesterification reactions with bulged adenosine as nucleophile",1.04e-20,5.0,235
-GO:0000375,"RNA splicing, via transesterification reactions",1.59e-20,5.0,239
-GO:0000398,"mRNA splicing, via spliceosome",2.08e-20,5.0,235
-GO:0008380,RNA splicing,1.5e-16,4.0,321
-GO:0006397,mRNA processing,9.86e-14,4.0,369
-GO:0016071,mRNA metabolic process,2.19e-09,3.0,552
-GO:0006396,RNA processing,2.39e-06,3.0,711
-GO:0010972,negative regulation of G2/M transition of mitotic cell cycle,1.87e-05,5.0,21
-GO:1902750,negative regulation of cell cycle G2/M phase transition,4.88e-05,5.0,22
-GO:0042590,antigen processing and presentation of exogenous peptide antigen via MHC class I,0.000341,5.0,19
-GO:0002479,"antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent",0.000372,5.0,19
-GO:0038095,Fc-epsilon receptor signaling pathway,0.000409,5.0,19
-GO:0038093,Fc receptor signaling pathway,0.000431,5.0,22
-GO:0031146,SCF-dependent proteasomal ubiquitin-dependent protein catabolic process,0.000505,5.0,17
-GO:0038061,NIK/NF-kappaB signaling,0.000541,5.0,17
-GO:0043618,regulation of transcription from RNA polymerase II promoter in response to stress,0.000738,5.0,23
-GO:1901532,regulation of hematopoietic progenitor cell differentiation,0.000874,3.0,27
-GO:0002223,stimulatory C-type lectin receptor signaling pathway,0.000879,4.0,18
-GO:0000387,spliceosomal snRNP assembly,0.000882,4.0,32
-GO:0002220,innate immune response activating cell surface receptor signaling pathway,0.000928,4.0,18
-GO:0033238,regulation of cellular amine metabolic process,0.000962,5.0,18
-GO:0090263,positive regulation of canonical Wnt signaling pathway,0.000995,5.0,24
-GO:1905330,regulation of morphogenesis of an epithelium,0.000998,5.0,21
-GO:0006521,regulation of cellular amino acid metabolic process,0.00101,5.0,18
-GO:0043620,regulation of DNA-templated transcription in response to stress,0.00104,5.0,24
-GO:0061418,regulation of transcription from RNA polymerase II promoter in response to hypoxia,0.00177,5.0,19
-GO:0031145,anaphase-promoting complex-dependent catabolic process,0.00183,5.0,19
-GO:0010565,regulation of cellular ketone metabolic process,0.00188,4.0,22
-GO:0002474,antigen processing and presentation of peptide antigen via MHC class I,0.00195,4.0,22
-GO:0010499,proteasomal ubiquitin-independent protein catabolic process,0.00201,8.0,8
-GO:0030177,positive regulation of Wnt signaling pathway,0.00241,4.0,26
-GO:1902036,regulation of hematopoietic stem cell differentiation,0.00245,3.0,24
-GO:0070498,interleukin-1-mediated signaling pathway,0.00308,4.0,20
-GO:0060071,"Wnt signaling pathway, planar cell polarity pathway",0.00317,4.0,20
-GO:0090175,regulation of establishment of planar polarity,0.00326,4.0,20
-GO:0033209,tumor necrosis factor-mediated signaling pathway,0.00566,4.0,21
-GO:0035567,non-canonical Wnt signaling pathway,0.00576,4.0,28
-GO:0006359,regulation of transcription by RNA polymerase III,0.00741,7.0,6
-GO:0030178,negative regulation of Wnt signaling pathway,0.00768,4.0,25
-GO:0060828,regulation of canonical Wnt signaling pathway,0.00822,4.0,29
-GO:0010498,proteasomal protein catabolic process,0.00859,3.0,34
-GO:0090090,negative regulation of canonical Wnt signaling pathway,0.00915,4.0,22
-GO:0030111,regulation of Wnt signaling pathway,0.0115,4.0,34
-GO:0000209,protein polyubiquitination,0.0146,3.0,38
-GO:0010948,negative regulation of cell cycle process,0.0157,3.0,62
-GO:0010389,regulation of G2/M transition of mitotic cell cycle,0.0158,3.0,37
-GO:0043161,proteasome-mediated ubiquitin-dependent protein catabolic process,0.0186,3.0,33
-GO:0000350,generation of catalytic spliceosome for second transesterification step,0.0188,113.0,2
-GO:1901991,negative regulation of mitotic cell cycle phase transition,0.0213,3.0,47
-GO:2000027,regulation of animal organ morphogenesis,0.0235,4.0,24
-GO:0000390,spliceosomal complex disassembly,0.0252,93.0,2
-GO:2000736,regulation of stem cell differentiation,0.0256,3.0,31
-GO:1901988,negative regulation of cell cycle phase transition,0.0263,3.0,48
-GO:0045930,negative regulation of mitotic cell cycle,0.0266,3.0,52
-GO:1902749,regulation of cell cycle G2/M phase transition,0.0294,3.0,39
-GO:0016055,Wnt signaling pathway,0.0298,3.0,42
-GO:0019882,antigen processing and presentation,0.0344,3.0,30
-GO:0048002,antigen processing and presentation of peptide antigen,0.0349,3.0,30
-GO:1905114,cell surface receptor signaling pathway involved in cell-cell signaling,0.0368,3.0,43
-GO:0016567,protein ubiquitination,0.0444,3.0,61
-GO:0006283,transcription-coupled nucleotide-excision repair,0.0452,3.0,23
+GO:0000377,"RNA splicing, via transesterification reactions with bulged adenosine as nucleophile",1.04e-20,5.37,235
+GO:0000375,"RNA splicing, via transesterification reactions",1.59e-20,5.28,239
+GO:0000398,"mRNA splicing, via spliceosome",2.08e-20,5.37,235
+GO:0008380,RNA splicing,1.5e-16,3.86,321
+GO:0006397,mRNA processing,9.86e-14,3.57,369
+GO:0016071,mRNA metabolic process,2.19e-09,3.42,552
+GO:0006396,RNA processing,2.39e-06,2.66,711
+GO:0010972,negative regulation of G2/M transition of mitotic cell cycle,1.87e-05,5.31,21
+GO:1902750,negative regulation of cell cycle G2/M phase transition,4.88e-05,5.07,22
+GO:0042590,antigen processing and presentation of exogenous peptide antigen via MHC class I,0.000341,5.09,19
+GO:0002479,"antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent",0.000372,5.09,19
+GO:0038095,Fc-epsilon receptor signaling pathway,0.000409,5.09,19
+GO:0038093,Fc receptor signaling pathway,0.000431,4.73,22
+GO:0031146,SCF-dependent proteasomal ubiquitin-dependent protein catabolic process,0.000505,5.25,17
+GO:0038061,NIK/NF-kappaB signaling,0.000541,5.25,17
+GO:0043618,regulation of transcription from RNA polymerase II promoter in response to stress,0.000738,5.08,23
+GO:1901532,regulation of hematopoietic progenitor cell differentiation,0.000874,3.32,27
+GO:0002223,stimulatory C-type lectin receptor signaling pathway,0.000879,3.87,18
+GO:0000387,spliceosomal snRNP assembly,0.000882,3.84,32
+GO:0002220,innate immune response activating cell surface receptor signaling pathway,0.000928,3.87,18
+GO:0033238,regulation of cellular amine metabolic process,0.000962,4.96,18
+GO:0090263,positive regulation of canonical Wnt signaling pathway,0.000995,4.87,24
+GO:1905330,regulation of morphogenesis of an epithelium,0.000998,4.6,21
+GO:0006521,regulation of cellular amino acid metabolic process,0.00101,4.96,18
+GO:0043620,regulation of DNA-templated transcription in response to stress,0.00104,4.87,24
+GO:0061418,regulation of transcription from RNA polymerase II promoter in response to hypoxia,0.00177,4.7,19
+GO:0031145,anaphase-promoting complex-dependent catabolic process,0.00183,4.7,19
+GO:0010565,regulation of cellular ketone metabolic process,0.00188,4.39,22
+GO:0002474,antigen processing and presentation of peptide antigen via MHC class I,0.00195,4.39,22
+GO:0010499,proteasomal ubiquitin-independent protein catabolic process,0.00201,7.87,8
+GO:0030177,positive regulation of Wnt signaling pathway,0.00241,4.5,26
+GO:1902036,regulation of hematopoietic stem cell differentiation,0.00245,3.32,24
+GO:0070498,interleukin-1-mediated signaling pathway,0.00308,4.46,20
+GO:0060071,"Wnt signaling pathway, planar cell polarity pathway",0.00317,4.46,20
+GO:0090175,regulation of establishment of planar polarity,0.00326,4.46,20
+GO:0033209,tumor necrosis factor-mediated signaling pathway,0.00566,4.25,21
+GO:0035567,non-canonical Wnt signaling pathway,0.00576,4.17,28
+GO:0006359,regulation of transcription by RNA polymerase III,0.00741,6.74,6
+GO:0006913,nucleocytoplasmic transport,0.00743,2.15,143
+GO:0030178,negative regulation of Wnt signaling pathway,0.00768,4.32,25
+GO:0051716,cellular response to stimulus,0.00802,2.06,383
+GO:0060828,regulation of canonical Wnt signaling pathway,0.00822,4.03,29
+GO:0010498,proteasomal protein catabolic process,0.00859,2.78,34
+GO:0090090,negative regulation of canonical Wnt signaling pathway,0.00915,4.06,22
+GO:0051169,nuclear transport,0.00922,2.12,145
+GO:0030111,regulation of Wnt signaling pathway,0.0115,3.7,34
+GO:0000209,protein polyubiquitination,0.0146,2.62,38
+GO:0010948,negative regulation of cell cycle process,0.0157,2.64,62
+GO:0010389,regulation of G2/M transition of mitotic cell cycle,0.0158,2.99,37
+GO:0043161,proteasome-mediated ubiquitin-dependent protein catabolic process,0.0186,2.71,33
+GO:0000350,generation of catalytic spliceosome for second transesterification step,0.0188,113.11,2
+GO:1901991,negative regulation of mitotic cell cycle phase transition,0.0213,2.78,47
+GO:2000027,regulation of animal organ morphogenesis,0.0235,3.72,24
+GO:0019884,antigen processing and presentation of exogenous antigen,0.0237,2.18,29
+GO:0002478,antigen processing and presentation of exogenous peptide antigen,0.0241,2.18,29
+GO:0000390,spliceosomal complex disassembly,0.0252,93.43,2
+GO:2000736,regulation of stem cell differentiation,0.0256,2.73,31
+GO:1901988,negative regulation of cell cycle phase transition,0.0263,2.72,48
+GO:0045930,negative regulation of mitotic cell cycle,0.0266,3.18,52
+GO:1902749,regulation of cell cycle G2/M phase transition,0.0294,2.84,39
+GO:0016055,Wnt signaling pathway,0.0298,3.21,42
+GO:0019882,antigen processing and presentation,0.0344,3.15,30
+GO:1901990,regulation of mitotic cell cycle phase transition,0.0348,2.26,75
+GO:0048002,antigen processing and presentation of peptide antigen,0.0349,3.15,30
+GO:1905114,cell surface receptor signaling pathway involved in cell-cell signaling,0.0368,3.14,43
+GO:0016567,protein ubiquitination,0.0444,2.67,61
+GO:0033554,cellular response to stress,0.0451,2.18,264
+GO:0006283,transcription-coupled nucleotide-excision repair,0.0452,2.81,23
+GO:1901987,regulation of cell cycle phase transition,0.0498,2.2,77
