@@ -84,3 +84,52 @@
   - Filter q < 0.05
   - Save as a csv file into the "data" directory and name it "gq_splicing_go_table.csv"
 - (we will see once we finish analyzing our GO outputs for the NMD screen what is the best way to present that data)
+
+## Weeks 5 and 6
+### Make a final table of GO terms for the NMD screen
+- Following our discussion on our [issues board](https://github.com/kychen37/rasilab_spelman_2023/issues/1), we've decided that our next goal is to repeat the analysis above for the NMD screen results
+- For the NMD data ("data/cb_go_output.csv"), use a python jupyter notebook and ```pandas``` to:
+  - Select the columns containing information for GO term, description, q-value, enrichment, and number of genes in that GO term
+    - Remember that the "Enrichment (N, B, n, b)" column is defined as:
+      - N - is the total number of genes
+      - B - is the total number of genes associated with a specific GO term
+      - n - is the number of genes in the top of the user's input list or in the target set when appropriate
+      - b - is the number of genes in the intersection
+      - Enrichment = (b/n) / (B/N)
+    - That means we will want to split the "Enrichment (N, B, n, b)" column and keep just the information for "Enrichment" and "B"
+  - Once you've done the above, sort by ascending q-value (aka the lowest/most significant q-values are at the top)
+  - Filter q < 0.05 (anything above 0.05 is not considered significant by convention)
+  - Save as a csv file into the "data" directory and name it "cb_nmd_go_table.csv"
+
+### Documentation!
+- Proper documentation is super important for reproducibility. It helps other labs/groups reproduce our work, and it helps us remember what was done many months in the future when it's finally time to put a paper together.
+- Please reorganize your files within our github repo to follow the directory conventions as follows:
+  - any jupyter notebooks should be in the "code" directory
+  - any notes (in markdown format) should be in the "notes" directory
+  - any data you generated should be saved as a ```csv``` file and in the "data" directory
+- If you need to move files around that you have already version controlled (aka you've already ```git pushed``` these files in the past), then you will want to do a ```git mv``` on them. This will ensure that they remain version controlled even when you move them to a new location.
+  - For example, I can see that the jupyter notebook named "gq_filtered_df_2.ipynb" is version controlled and currently in the "data" directory, but should be in the "code" directory
+  - To move it with ```git```, you would run: ```git mv data/gq_filtered_df_2.ipynb code/gq_filtered_df_2.ipynb``` (the pattern is basically "git mv" "current location" "new location")
+  - Then, if you run ```git status``` to see what has been done, you should see that this move has been staged, so you can just ```git commit``` and ```push``` as usual
+  - Do this for any remaining files that need to be reorganized
+- Once you have reorganized any files that need to be moved around, please go back in to any jupyter notebooks that got moved and make sure all the code still runs as expected. Fix any bugs that may now occur due to the file location change.
+- Once all the reorganizing is done (seems trivial, but can take a good chunk of time and troubleshooting!), please add a section in your summary document with the header "Documentation", which states the **filename and location** (aka what directory it's in) of:
+  - The CRISPR data you were given
+  - The output (csv file) of the GO analysis (before you did anything to it)
+  - The final GO analysis table
+  - The code (jupyter notebook) that generated that final table
+- Just a reminder of the other things your summary file should include:
+  - What you did to the dataset (you can describe this in words, code, or pseudocode) before feeding it into the GO website (please also link the GO website we used)
+  - What the results/outputs were from the GO website: a screenshot of the diagrams would be helpful here
+  - Your interpretation of the outputs from the GO website in the context of the ReLiC screen you're working with
+- Reminder to please write this summary document in markdown so it can be easily pushed to our github repo and referred to in the future
+  - To insert the screenshot image of your GO output diagrams into the markdown file, use this code in your markdown document: ```<img src="path_to_image_file", width=500px>```
+  - The "width" is in pixels describes how large to make the image (you can adjust it larger or smaller)
+  - The screenshotted image should be renamed to be something easily computer-readable (e.g. "splicing_go_output_dag.png" or something similar)
+  - The image should also be pushed to github
+  - When you look at your summary document on github (i.e. on the [web]("https://github.com/kychen37/rasilab_spelman_2023/tree/main")), you should see the image you linked displayed within the file. If you don't see it, that means you need to fix the link by changing the path in your markdown document
+
+### Presentations
+- Whenever you finish the above, you can work on the presentations you have coming up:
+  - We are scheduled to have one more Short Updates lab meeting on Aug 2nd (prepare 2-3 slides each about your experience and your exciting analysis results!)
+  - Your research posters for Spelman College
