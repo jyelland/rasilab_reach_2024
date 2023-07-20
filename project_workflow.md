@@ -68,3 +68,19 @@
     - This is harder than it seems! I recommend thinking about what you want to do to the dataframe in words, and googling that along with the keywords "python" and "pandas". StackOverflow is a useful website where people frequently ask code-related questions and get good answers.
   - Finally, plot a histogram of enrichment values from the resultant data. This will help us decide where to cut off the data such that we aren't needing to make a plot out of a ton of terms.
 - The jupyter notebook ```code/kc_pandas_go_analysis.ipynb``` will probably help you get started (treat it as a ```pandas``` tutorial). You should save this notebook into our ```code``` directory with your initials, and then you can do your analysis there if you like. Either way, make sure to version control your code (.ipynb files) and notes (.md files) and name your files following the conventions noted above that we talked about previously.
+
+## Make a final table of GO terms for the splicing screen
+- As Rasi said in this [comment](https://github.com/kychen37/rasilab_spelman_2023/issues/1#issuecomment-1642887767), the results of the GO analysis for the splicing screen are straight-forward enough that we can just present it as a table
+- In a jupyter notebook (can use the one you used before or make a new one) using ```pandas```:
+  - Select the columns containing information for GO term, description, q-value, enrichment, and number of genes in that GO term
+    - Remember that the "Enrichment (N, B, n, b)" column is defined as:
+      - N - is the total number of genes
+      - B - is the total number of genes associated with a specific GO term
+      - n - is the number of genes in the top of the user's input list or in the target set when appropriate
+      - b - is the number of genes in the intersection
+      - Enrichment = (b/n) / (B/N)
+    - That means we will want to split the "Enrichment (N, B, n, b)" column and keep just the information for "Enrichment" and "B"
+  - Once you've done the above, sort by ascending q-value (aka the lowest/most significant q-values are at the top)
+  - Filter q < 0.05
+  - Save as a csv file into the "data" directory and name it "gq_splicing_go_table.csv"
+- (we will see once we finish analyzing our GO outputs for the NMD screen what is the best way to present that data)
