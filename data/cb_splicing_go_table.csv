@@ -1,0 +1,96 @@
+GO term,Description,FDR q-value,AssociatedGenes,enrichment
+GO:0000184,"nuclear-transcribed mRNA catabolic process, nonsense-mediated decay",2.09e-24,115,4.48
+GO:0006413,translational initiation,5.5e-24,133,4.12
+GO:0045047,protein targeting to ER,5.85e-24,91,4.58
+GO:0006613,cotranslational protein targeting to membrane,6.5e-24,90,4.63
+GO:0072599,establishment of protein localization to endoplasmic reticulum,6.689999999999999e-24,91,4.58
+GO:0019083,viral transcription,7.72e-24,88,5.02
+GO:0070972,protein localization to endoplasmic reticulum,7.8e-24,91,4.58
+GO:0006614,SRP-dependent cotranslational protein targeting to membrane,8.76e-24,88,4.65
+GO:0006612,protein targeting to membrane,1.2299999999999998e-23,92,4.53
+GO:0006605,protein targeting,2.4e-22,102,4.23
+GO:0090150,establishment of protein localization to membrane,5.16e-22,100,4.24
+GO:0072657,protein localization to membrane,4.64e-19,110,3.86
+GO:0072594,establishment of protein localization to organelle,1.27e-18,133,3.52
+GO:0000956,nuclear-transcribed mRNA catabolic process,2.67e-17,175,3.22
+GO:0006412,translation,3.02e-16,172,3.02
+GO:0043604,amide biosynthetic process,3.81e-16,181,2.95
+GO:0006518,peptide metabolic process,5.36e-16,182,2.93
+GO:0043043,peptide biosynthetic process,5.76e-16,174,2.98
+GO:0043603,cellular amide metabolic process,5.95e-16,191,2.87
+GO:0006402,mRNA catabolic process,1.45e-15,191,3.0
+GO:0033365,protein localization to organelle,1.87e-15,169,2.99
+GO:1901566,organonitrogen compound biosynthetic process,3.9e-14,217,2.69
+GO:0009057,macromolecule catabolic process,5.99e-14,279,2.32
+GO:0044265,cellular macromolecule catabolic process,6.03e-14,270,2.35
+GO:0006886,intracellular protein transport,1.83e-13,182,2.92
+GO:0006401,RNA catabolic process,2.2e-13,215,3.04
+GO:0034613,cellular protein localization,6.81e-13,194,2.68
+GO:0070727,cellular macromolecule localization,1.54e-12,201,2.62
+GO:0046700,heterocycle catabolic process,4.28e-12,248,2.51
+GO:1901361,organic cyclic compound catabolic process,4.42e-12,248,2.51
+GO:1901575,organic substance catabolic process,5.58e-12,326,2.11
+GO:0044403,symbiont process,6.16e-12,238,2.47
+GO:0016032,viral process,6.35e-12,238,2.47
+GO:0046907,intracellular transport,7.9e-12,317,3.08
+GO:0044270,cellular nitrogen compound catabolic process,8.11e-12,251,2.48
+GO:0044248,cellular catabolic process,1.06e-11,335,2.03
+GO:0019439,aromatic compound catabolic process,1.08e-11,247,2.48
+GO:0034655,nucleobase-containing compound catabolic process,1.11e-11,247,2.48
+GO:0009056,catabolic process,1.15e-11,341,2.15
+GO:0051649,establishment of localization in cell,1.3e-11,334,2.98
+GO:0044419,interspecies interaction between organisms,5.09e-11,264,2.32
+GO:0015833,peptide transport,6.52e-11,220,2.39
+GO:0015031,protein transport,6.67e-11,220,2.39
+GO:0042886,amide transport,6.83e-11,220,2.39
+GO:0045184,establishment of protein localization,6.96e-11,230,2.35
+GO:0051641,cellular localization,9.45e-11,390,2.71
+GO:0033036,macromolecule localization,1.24e-10,291,2.22
+GO:0006364,rRNA processing,1.44e-10,192,2.26
+GO:0016072,rRNA metabolic process,3.18e-10,205,2.19
+GO:0051179,localization,4.22e-10,567,2.28
+GO:0006810,transport,7.78e-10,496,2.36
+GO:0051234,establishment of localization,9.34e-10,513,2.32
+GO:0008104,protein localization,2.01e-09,276,2.19
+GO:0071702,organic substance transport,3.25e-09,334,2.82
+GO:0071705,nitrogen compound transport,4.66e-09,324,2.84
+GO:0002181,cytoplasmic translation,4.76e-07,38,3.91
+GO:0006418,tRNA aminoacylation for protein translation,5.78e-05,42,3.3
+GO:0043038,amino acid activation,0.000166,44,3.15
+GO:0043039,tRNA aminoacylation,0.000168,44,3.15
+GO:0055085,transmembrane transport,0.000202,61,2.46
+GO:0022613,ribonucleoprotein complex biogenesis,0.000221,51,2.55
+GO:0044085,cellular component biogenesis,0.000224,51,2.55
+GO:0006520,cellular amino acid metabolic process,0.000451,71,2.58
+GO:0000462,"maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",0.00056,22,4.43
+GO:0030490,maturation of SSU-rRNA,0.00299,33,3.37
+GO:0001541,ovarian follicle development,0.00521,7,21.94
+GO:0014003,oligodendrocyte development,0.00527,7,21.94
+GO:0050852,T cell receptor signaling pathway,0.00549,28,3.55
+GO:0000470,maturation of LSU-rRNA,0.00552,24,2.51
+GO:0050851,antigen receptor-mediated signaling pathway,0.00555,28,3.55
+GO:0098660,inorganic ion transmembrane transport,0.00692,14,7.62
+GO:0015985,"energy coupled proton transport, down electrochemical gradient",0.00711,3,26.22
+GO:0015986,ATP synthesis coupled proton transport,0.00718,3,26.22
+GO:0042776,mitochondrial ATP synthesis coupled proton transport,0.00725,3,26.22
+GO:0007007,inner mitochondrial membrane organization,0.00841,6,17.48
+GO:0007272,ensheathment of neurons,0.0122,4,28.79
+GO:0042552,myelination,0.0123,4,28.79
+GO:0008366,axon ensheathment,0.0124,4,28.79
+GO:1902600,proton transmembrane transport,0.0168,5,12.84
+GO:0071353,cellular response to interleukin-4,0.0171,7,35.44
+GO:0070670,response to interleukin-4,0.0172,7,35.44
+GO:0000027,ribosomal large subunit assembly,0.0195,22,3.84
+GO:0042590,antigen processing and presentation of exogenous peptide antigen via MHC class I,0.0254,19,2.89
+GO:0002479,"antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent",0.0256,19,2.89
+GO:1904666,regulation of ubiquitin protein ligase activity,0.0281,4,8.74
+GO:0000028,ribosomal small subunit assembly,0.0283,14,4.08
+GO:1904667,negative regulation of ubiquitin protein ligase activity,0.0283,4,8.74
+GO:0031146,SCF-dependent proteasomal ubiquitin-dependent protein catabolic process,0.0295,17,2.98
+GO:0042274,ribosomal small subunit biogenesis,0.0319,17,3.73
+GO:0006119,oxidative phosphorylation,0.035,4,19.66
+GO:0048701,embryonic cranial skeleton morphogenesis,0.0355,3,14.53
+GO:0098662,inorganic cation transmembrane transport,0.0394,13,7.04
+GO:0031100,animal organ regeneration,0.0417,8,107.5
+GO:0000463,"maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",0.0488,11,6.41
+GO:0002429,immune response-activating cell surface receptor signaling pathway,0.0493,35,4.69
