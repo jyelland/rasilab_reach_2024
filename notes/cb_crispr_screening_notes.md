@@ -57,6 +57,20 @@ limitations: labor and resource intensice, requires independent and functional t
 # **CiBER-seq dissects genetic networks by quantitative CRISPRi profiling of expression phenotypes**
 -   new method for dissecting genetic networks by using CRISPRi profiling of expression phenotypes
 -    allows for precise control of gene expression by using deactivated Cas9 (dCas9) proteins and precise measurement of gene expression of specific phenotypes
--     can be used to identify key genes and pathways involved in specific biological processes, diseases, and harmful mutations
+-    can be used to identify key genes and pathways involved in specific biological processes, diseases, and harmful mutations
 -    comparing the expression phenotypes of different genetic variants, CiBER-seq allows researchers to infer the functional relationships between genes.
--    potential to greatly advance our understanding of complex genetic networks and provide insights into disease mechanisms
+-    potential to greatly advance our understanding of complex genetic networks and provide insights into disease mechanisms 
+# **RNA-linked CRISPR (ReliC) screening elucidates gene regulatory networks in human cells**
+-   mRNA transfer information from genes to proteins, the purpose of mRNA is to carry protein information from DNA in a cell to its cytoplasm, the mRNA is then read and is translated to base codons into amino acid growing protein chains. 
+-   four diffrent types of mRNA mutations: point mutation-replacement of one base with another. Frameshift- addition or reoval of a base in a sequence. Nonsense- mutation that creates a stop codon, preventing the production of a protein in its entirety. Missense- the subsitutaiton of one amino acid for another. 
+-   **RNA metabolism and its binding to proteins**
+-   includes diverse processes that regualte the synthesis, processing transport and degreationof RNA molecules, allowing gene expression and maintaning cell homeostasis.
+-   rNA-binding proteins are important in RNA metabolism bc they interact with RNA molecules. Rna binding proteins recognize specific RNA sequences or structures and mediate various functions, like splicing, polyadenylation, stability, and translation regulation.
+-   RNA binding proteins can regulate RNA metabolism through direct interactions with RNA, influencing its localization, stability, or processing
+-   either enhance or inhibit translation by interacting with specific elements in the mRNA
+-   polyadenylation: addition of a poly(A) tail to an RNA transcript typically on the mRNA
+-   cytoplasmic mRNA decay: post transcriptioanls mechanism in human cells with gene transcription, pre-mrna, and transport mechanisms from mrna regulate ultimate level of protein-encoding gene expression. Bascially a way that allows for gene transcription. 
+-   their metabolic pathways are commonly studied in yeast: due to the simplicity, conservation, avalibility, simple cell enviroment,similarity within metabolic pathways, mechanisms mRNA synthesis, processing, transport, decay and more. 
+-   Limitations: 
+    -  Pooled CRISPR screens: disruption of RNA metabolism doesn't necessarily manifest with growth or viability defects: this is likely due to silent mutation, that dont affect the outcome of yeast. 
+    -   FACS- based CRISPR screening: disruption of RNA metabolism may not alter protein levels, liekly encoding for a stop codon, therefore is this a non-sense mutation
