@@ -55,3 +55,4 @@ The code (jupyter notebook) that generated that final table
 - https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-10-48#Sec5
 
 <img src="path_to_image_file", width=500px>
+![Splicing GO Output Screenshot](!(image.png)){: width="800px"}
