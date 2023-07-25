@@ -56,3 +56,10 @@ The code (jupyter notebook) that generated that final table
 
 <img src="path_to_image_file", width=500px>
 ![Splicing GO Output Screenshot](!(image.png)){: width="800px"}
+
+
+
+
+![Splicing GO Output](splicing_go_output_dag.png)
+
+
