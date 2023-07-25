@@ -9,7 +9,9 @@ The final GO analysis table
     - gq_filtered_df_2.csv
     - cb_nmd_go_table.csv
 The code (jupyter notebook) that generated that final table
-    - 
+    - gq_filtered_df_2.ipynb
+    - gq_pandas_go_analysis.ipynb
+    - cb_nmd_go_table.ipynb
 # Objective
 - RNA metabolism is influenced by various factors, including processes like splicing and nonsense-mediated decay (NMD). Assessing the impact of these factors is crucial. In the context of CRISPR screens, direct measurement of RNA levels becomes important. RNA sequencing provides a quantitative approach to evaluate RNA molecules, offering insights into the effects of gene perturbations on transcriptional regulation, key genes, and pathways. The ReLic screening strategy, focused on splicing and NMD, holds promise in identifying functional consequences resulting from CRISPR-mediated gene modifications. Such investigations contribute to a deeper understanding of the impact of RNA-related processes on gene function.
 - **GQ** - What are the factos that affects RNA metabolism specifically spilicing?
