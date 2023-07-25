@@ -54,9 +54,9 @@ The code (jupyter notebook) that generated that final table
 - https://www.science.org/doi/10.1126/science.abb9662
 - https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-10-48#Sec5
 
-<img src="path_to_image_file", width=500px>
-![Splicing GO Output Screenshot](!(image.png)){: width="800px"}
+Splicing GO Output Screenshot
+![Splicing GO Output](../data/splicing_go_output_dag.png)
 
-![Splicing GO Output](splicing_go_output_dag.png)
+NMD GO Output
 
 
