@@ -61,6 +61,5 @@ https://cbl-gorilla.cs.technion.ac.il/GOrilla/zctdtiao/GOResults.html
 
 NMD GO Output:
 https://cbl-gorilla.cs.technion.ac.il/GOrilla/s3f4yrrs/GOResults.html
-![NMD Go Output](nmd_go_output_dag_1.png)
-![NMD Go Output](nmd_go_output_dag_2.png)
-
+![NMD Go Output](../data/nmd_go_output_dag_1.png)
+![NMD Go Output](../data/nmd_go_output_dag_2.png)
