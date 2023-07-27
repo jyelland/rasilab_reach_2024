@@ -1,17 +1,17 @@
 # Documentation
 - The CRISPR data you were given
-    - gq_mageck.gene_summary.tsv 
-    - cb_mageck.gene_summary.tsv 
+    - [gq_mageck.gene_summary.tsv](https://github.com/kychen37/rasilab_spelman_2023/blob/main/data/gq_mageck.gene_summary.tsv)
+    - [cb_mageck.gene_summary.tsv](https://github.com/kychen37/rasilab_spelman_2023/blob/main/data/cb_mageck.gene_summary.tsv)
 - The output (csv file) of the GO analysis (before you did anything to it)
-    - gq_go_output.csv
-    - cb_go_output.csv
+    - [gq_go_output.csv](https://github.com/kychen37/rasilab_spelman_2023/blob/main/data/gq_go_output.csv)
+    - [cb_go_output.csv](https://github.com/kychen37/rasilab_spelman_2023/blob/main/data/cb_go_output.csv)
 - The final GO analysis table
-    - gq_filtered_df_2.csv
-    - cb_nmd_go_table.csv
+    - [gq_filtered_df_2.csv](https://github.com/kychen37/rasilab_spelman_2023/blob/main/data/gq_filtered_df_2.csv)
+    - [cb_nmd_go_table.csv](https://github.com/kychen37/rasilab_spelman_2023/blob/main/data/cb_nmd_go_table.csv)
 - The code (jupyter notebook) that generated that final table
-    - gq_filtered_df_2.ipynb
-    - gq_pandas_go_analysis.ipynb
-    - cb_nmd_go_table.ipynb
+    - [gq_filtered_df_2.ipynb](https://github.com/kychen37/rasilab_spelman_2023/blob/main/code/gq_filtered_df_2.ipynb)
+    - [gq_pandas_go_analysis.ipynb](https://github.com/kychen37/rasilab_spelman_2023/blob/main/code/gq_pandas_go_analysis.ipynb)
+    - [cb_nmd_go_table.ipynb](https://github.com/kychen37/rasilab_spelman_2023/blob/main/code/cb_nmd_go_table.ipynb)
 # Objective
 - RNA metabolism is influenced by various factors, including processes like splicing and nonsense-mediated decay (NMD). Assessing the impact of these factors is crucial. In the context of CRISPR screens, direct measurement of RNA levels becomes important. RNA sequencing provides a quantitative approach to evaluate RNA molecules, offering insights into the effects of gene perturbations on transcriptional regulation, key genes, and pathways. The ReLic screening strategy, focused on splicing and NMD, holds promise in identifying functional consequences resulting from CRISPR-mediated gene modifications. Such investigations contribute to a deeper understanding of the impact of RNA-related processes on gene function.
 - **GQ** - What are the factos that affects RNA metabolism specifically spilicing?
