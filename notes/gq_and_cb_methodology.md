@@ -1,14 +1,14 @@
 # Documentation
-The CRISPR data you were given
+- The CRISPR data you were given
     - gq_mageck.gene_summary.tsv 
     - cb_mageck.gene_summary.tsv 
-The output (csv file) of the GO analysis (before you did anything to it)
+- The output (csv file) of the GO analysis (before you did anything to it)
     - gq_go_output.csv
     - cb_go_output.csv
-The final GO analysis table
+- The final GO analysis table
     - gq_filtered_df_2.csv
     - cb_nmd_go_table.csv
-The code (jupyter notebook) that generated that final table
+- The code (jupyter notebook) that generated that final table
     - gq_filtered_df_2.ipynb
     - gq_pandas_go_analysis.ipynb
     - cb_nmd_go_table.ipynb
