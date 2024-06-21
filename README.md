@@ -1,7 +1,16 @@
-# SURE internship in the Subramaniam Lab : Summer 2024
+# REACH internship in the Subramaniam Lab (Summer 2024)
+
+## Students
+
 - Kaleaha Davis
 - Kentavious Veal
+
+## Mentor
+
 - Jamie Yelland
+
+## PI
+
 - Rasi Subramaniam's lab at Fred Hutch Cancer Center
 
 # Documentation
