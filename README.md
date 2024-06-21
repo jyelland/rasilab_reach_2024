@@ -1,5 +1,5 @@
 # SURE internship in the Subramaniam Lab : Summer 2024
-- Kalaeha Davis
+- Kaleaha Davis
 - Kentavious Veal
 - Jamie Yelland
 - Rasi Subramaniam's lab at Fred Hutch Cancer Center
