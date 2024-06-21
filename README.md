@@ -1,14 +1,14 @@
-# Rasilab-Spelman Comp Bio internship 2023
-- Katharine Chen
-- Grace Quarterman
-- Christine Bynum
+# SURE internship in the Subramaniam Lab : Summer 2024
+- Kalaeha Davis
+- Kentavious Veal
+- Jamie Yelland
 - Rasi Subramaniam's lab at Fred Hutch Cancer Center
 
 # Documentation
-https://github.com/kychen37/rasilab_spelman_2023/blob/main/notes/gq_and_cb_methodology.md
+[Last year's documentation is here.](https://github.com/kychen37/rasilab_spelman_2023/blob/main/notes/gq_and_cb_methodology.md)
 
 # Project Workflow
-- [Main workflow details](https://github.com/kychen37/rasilab_spelman_2023/blob/main/project_workflow.md)
+- [Last year's workflow is here.](https://github.com/kychen37/rasilab_spelman_2023/blob/main/project_workflow.md)
 
 ## Useful resources
 
@@ -67,8 +67,8 @@ https://github.com/kychen37/rasilab_spelman_2023/blob/main/notes/gq_and_cb_metho
   - e.g. numpy and matplotlib are common python packages, to install them you would run: ```conda install numpy```, ```conda install matplotlib```
 
 ### VSCode
-- A very useful text editing and coding application
-- Various extensions make coding/writing in VSCode much easier
+- A very useful text editing and coding application.
+- Various extensions make coding/writing in VSCode much easier.
 
 #### Setting up Jupyter kernels in VSCode
 - In VSCode, find the Extensions panel
@@ -80,5 +80,3 @@ https://github.com/kychen37/rasilab_spelman_2023/blob/main/notes/gq_and_cb_metho
   - The first time you run a code chunk, VSCode may ask you to download some needed additional extensions, download those
 
 # Link to Notes/ Checklist
-- https://docs.google.com/document/d/1oH2o3IqIo8S2cpuaRkC1sHXC3Qf9WcVbSqiicUIzfk8/edit
-- https://docs.google.com/document/d/1pm8s1GsDygkZAIZ5U-h7Nw7eMhKVGkSIK1jx5_jSpuk/edit
