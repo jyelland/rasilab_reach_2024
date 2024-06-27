@@ -36,7 +36,8 @@
 
 - Make an account on github and verify your email address
 - Install git to your laptops by following [this](https://www.atlassian.com/git/tutorials/install-git) site
-- Clone our group's remote repository to your local computer by opening the terminal and executing the following: ```git clone https://github.com/kychen37/rasilab_spelman_2023.git```
+- Make a git/ folder on your computer, somewhere you can easily find it, with the command ```mkdir git```.
+- In your git/ folder, clone this repository to your local computer with the following command: ```git clone git@github.com:kychen37/rasilab_reach_2023```
   - Since this repo was made in my account (kychen37), I needed to added gquarter and christinebynum users to the repo on github under [Settings](https://github.com/kychen37/rasilab_spelman_2023/settings) before they had permission to push/pull
 - Each user needs to then generate a personal access token:
   - Go to your user settings -> Developer settings -> Personal access tokens -> Tokens (classic) -> Generate new token (classic)
