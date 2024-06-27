@@ -4,6 +4,7 @@
 
 Reviews about CRISPR and proteostasis.
 
+- Truitt and Ruggero, ["New frontiers in translational control of the cancer genome"](https://pubmed.ncbi.nlm.nih.gov/27112207/)
 - Hipp et al., ["The proteostasis network and its decline in ageing"](https://pubmed.ncbi.nlm.nih.gov/30733602/)
 
 ## Papers
